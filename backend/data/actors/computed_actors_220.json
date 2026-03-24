@@ -1,0 +1,647 @@
+[
+  {
+    "id": 8793,
+    "dataBasedName": "Yoda",
+    "eventReportIds": [
+      496753,
+      496748,
+      496749,
+      496754,
+      496755,
+      496758,
+      496803,
+      496804,
+      496806,
+      496814,
+      496824,
+      496827,
+      496859,
+      496862,
+      496864,
+      496890,
+      496933,
+      499311,
+      509917,
+      509919,
+      509927,
+      509929,
+      513022,
+      513023,
+      513025,
+      513035,
+      513083,
+      513089,
+      513099,
+      513102,
+      513105,
+      513108,
+      513133,
+      513147,
+      513153,
+      513161,
+      513169,
+      513175,
+      513211,
+      513213,
+      513289
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "DZ Mafia": 41
+    },
+    "links": [
+      {
+        "source": "DZ Mafia",
+        "target": "Yoda",
+        "linkType": 1,
+        "count": 41,
+        "reports": [
+          496753,
+          496748,
+          496749,
+          496754,
+          496755,
+          496758,
+          496803,
+          496804,
+          496806,
+          496814,
+          496824,
+          496827,
+          496859,
+          496862,
+          496864,
+          496890,
+          496933,
+          499311,
+          509917,
+          509919,
+          509927,
+          509929,
+          513022,
+          513023,
+          513025,
+          513035,
+          513083,
+          513089,
+          513099,
+          513102,
+          513105,
+          513108,
+          513133,
+          513147,
+          513153,
+          513161,
+          513169,
+          513175,
+          513211,
+          513213,
+          513289
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 145,
+    "dataBasedName": "Government of Sri Lanka",
+    "eventReportIds": [
+      76775
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "LTTE": 1
+    },
+    "links": [
+      {
+        "source": "Government of Sri Lanka",
+        "target": "LTTE",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          76775
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 207,
+    "dataBasedName": "Fatah",
+    "eventReportIds": [
+      178312
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Israel": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "Fatah",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          178312
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 35,
+    "dataBasedName": "Government of Spain",
+    "eventReportIds": [
+      65169
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "ETA": 1
+    },
+    "links": [
+      {
+        "source": "Government of Spain",
+        "target": "ETA",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          65169
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 8792,
+    "dataBasedName": "DZ Mafia",
+    "eventReportIds": [
+      496753,
+      496748,
+      496749,
+      496754,
+      496755,
+      496758,
+      496803,
+      496804,
+      496806,
+      496814,
+      496824,
+      496827,
+      496859,
+      496862,
+      496864,
+      496890,
+      496933,
+      499311,
+      509917,
+      509919,
+      509927,
+      509929,
+      513022,
+      513023,
+      513025,
+      513035,
+      513083,
+      513089,
+      513099,
+      513102,
+      513105,
+      513108,
+      513133,
+      513147,
+      513153,
+      513161,
+      513169,
+      513175,
+      513211,
+      513213,
+      513289
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Yoda": 41
+    },
+    "links": [
+      {
+        "source": "DZ Mafia",
+        "target": "Yoda",
+        "linkType": 1,
+        "count": 41,
+        "reports": [
+          496753,
+          496748,
+          496749,
+          496754,
+          496755,
+          496758,
+          496803,
+          496804,
+          496806,
+          496814,
+          496824,
+          496827,
+          496859,
+          496862,
+          496864,
+          496890,
+          496933,
+          499311,
+          509917,
+          509919,
+          509927,
+          509929,
+          513022,
+          513023,
+          513025,
+          513035,
+          513083,
+          513089,
+          513099,
+          513102,
+          513105,
+          513108,
+          513133,
+          513147,
+          513153,
+          513161,
+          513169,
+          513175,
+          513211,
+          513213,
+          513289
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 86028,
+    "dataBasedName": "al-Qaida",
+    "eventReportIds": [
+      108157
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "al-Qaida",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          108157
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 538,
+    "dataBasedName": "GIA",
+    "eventReportIds": [
+      4233
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "GIA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          4233
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 121,
+    "dataBasedName": "Government of Israel",
+    "eventReportIds": [
+      178312
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Fatah": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "Fatah",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          178312
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 95549,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      4233,
+      108157,
+      210197,
+      231228,
+      231235,
+      256235,
+      256244,
+      262139,
+      274874,
+      501678
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "GIA": 1,
+      "IS": 8,
+      "al-Qaida": 1
+    },
+    "links": [
+      {
+        "source": "GIA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          4233
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          210197,
+          231228,
+          231235,
+          256235,
+          256244,
+          262139,
+          274874,
+          501678
+        ]
+      },
+      {
+        "source": "al-Qaida",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          108157
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 116,
+    "dataBasedName": "Government of Iraq",
+    "eventReportIds": [
+      210203,
+      239219,
+      256380,
+      262205,
+      262237,
+      275469
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 6
+    },
+    "links": [
+      {
+        "source": "Government of Iraq",
+        "target": "IS",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          210203,
+          239219,
+          256380,
+          262205,
+          262237,
+          275469
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      210197,
+      210203,
+      231228,
+      231235,
+      239219,
+      256235,
+      256244,
+      256380,
+      262139,
+      262205,
+      262237,
+      274874,
+      275469,
+      501678
+    ],
+    "eventTypeSummary": {
+      "1": 0.42857142857142855,
+      "2": 0.0,
+      "3": 0.5714285714285714
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Iraq": 6,
+      "Civilians": 8
+    },
+    "links": [
+      {
+        "source": "Government of Iraq",
+        "target": "IS",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          210203,
+          239219,
+          256380,
+          262205,
+          262237,
+          275469
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          210197,
+          231228,
+          231235,
+          256235,
+          256244,
+          262139,
+          274874,
+          501678
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 313,
+    "dataBasedName": "ETA",
+    "eventReportIds": [
+      65169
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Spain": 1
+    },
+    "links": [
+      {
+        "source": "Government of Spain",
+        "target": "ETA",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          65169
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 320,
+    "dataBasedName": "LTTE",
+    "eventReportIds": [
+      76775
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Sri Lanka": 1
+    },
+    "links": [
+      {
+        "source": "Government of Sri Lanka",
+        "target": "LTTE",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          76775
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

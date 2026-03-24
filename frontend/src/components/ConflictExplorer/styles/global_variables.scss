@@ -1,0 +1,90 @@
+
+$primary-color: #fafafa;
+$primary-light: #f0eded;
+$primary-dark: #c7c7c7;
+$secondary-color:#bdbdbd;
+$secondary-light: #d7d7d7;
+$secondary-dark: #8d8d8d;
+$text-color: #000000;
+$text-primary: #4C4C4C;
+$color-white: #ffffff;
+$neutral-color: #c7c7c7;
+$neutral-light: #e0e0e0;
+$neutral-dark: #aeaeae;
+$info-icon-color: #abcdef;
+$type-icon-color: #000000;
+$multiple-appearance-color: #ffff00;
+$highlight-color: #fea500;
+$link-highlight: #999999;
+
+$help-main: #b2dfdb;
+$help-light: #e5ffff;
+$help-dark: #82ada9;
+
+$light-grey: #F5F5F5;
+$cat-blue-50: #4D74A6;
+$light-blue: #3D76AB;
+$light-blue-20: #CDE1F5;
+$light-blue-40: #E5E7EB;
+$light-blue-50: #B9C2CA;
+$light-blue-250: #667785;
+$dark-blue: #17344E;
+$dark-blue-600: #102a42;
+$dark-blue-850: #1A202C;
+$light-grey-20: #F1F9FF;
+$light-grey-100: #F3F3F3;
+$light-grey-200: #E1E1E1;
+$red-medium: #B24C4E;
+
+$global-margin: 1em 1em 0 1em;
+$navigation-bar-size-small: 60px;
+$navigation-bar-size-tiny: 36px;
+$main-border-radius: 4px;
+$view-config-height: 20px;
+
+$map-pop-up-interaction: 50px;
+
+$map-popup-width: 500px;
+
+
+:export {
+    primaryColor: $primary-color;
+    primaryLight: $primary-light;
+    primaryDark: $primary-dark;
+    secondaryColor: $secondary-color;
+    secondaryLight: $secondary-light;
+    secondaryDark: $secondary-dark;
+    textPrimary: $text-primary;
+    textSecondary: $text-color;
+    neutralColor: $neutral-color;
+    neutralLight: $neutral-light;
+    neutralDark: $neutral-dark;
+    textNeutral: $text-color;
+    textWhite: $color-white;
+    mainBorderRadius: $main-border-radius;
+    mapPopupWidth: $map-popup-width;
+    infoIconColor: $info-icon-color;
+    typeIconColor: $type-icon-color;
+    multipleAppearanceColor: $multiple-appearance-color;
+    highlightColor: $highlight-color;
+    mapPopUpInteraction: $map-pop-up-interaction;
+    linkHighlight: $link-highlight;
+    helpMain: $help-main;
+    helpLight: $help-light;
+    helpDark: $help-dark;
+    timelineHighlight: $text-color;
+    catBlue50:$cat-blue-50;
+    lightBlue: $light-blue;
+    lightBlue20:$light-blue-20;
+    lightBlue40:$light-blue-40;
+    lightBlue50:$light-blue-50;
+    lightBlue250:$light-blue-250;
+    darkBlue: $dark-blue;
+    darkBlue600:$dark-blue-600;
+    darkBlue850:$dark-blue-850;
+    lightGrey: $light-grey;
+    lightGrey20:$light-grey-20;
+    lightGrey100:$light-grey-100;
+    lightGrey200:$light-grey-200;
+    redMedium:$red-medium;
+}

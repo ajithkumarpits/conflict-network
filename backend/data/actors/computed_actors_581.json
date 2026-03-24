@@ -1,0 +1,161 @@
+[
+  {
+    "id": 518,
+    "dataBasedName": "Presidential guard",
+    "eventReportIds": [
+      12040,
+      12044
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Comoros": 2
+    },
+    "links": [
+      {
+        "source": "Government of Comoros",
+        "target": "Presidential guard",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12040,
+          12044
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 107,
+    "dataBasedName": "Government of Comoros",
+    "eventReportIds": [
+      12040,
+      12044,
+      12410,
+      71530
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "MPA/Republic of Anjouan": 2,
+      "Presidential guard": 2
+    },
+    "links": [
+      {
+        "source": "Government of Comoros",
+        "target": "MPA/Republic of Anjouan",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12410,
+          71530
+        ]
+      },
+      {
+        "source": "Government of Comoros",
+        "target": "Presidential guard",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12040,
+          12044
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 544,
+    "dataBasedName": "MPA/Republic of Anjouan",
+    "eventReportIds": [
+      12410,
+      12428,
+      12429,
+      12433,
+      71530
+    ],
+    "eventTypeSummary": {
+      "1": 0.4,
+      "2": 0.6
+    },
+    "eventTypes": [
+      1,
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Comoros": 2,
+      "MPA - SOC": 3
+    },
+    "links": [
+      {
+        "source": "Government of Comoros",
+        "target": "MPA/Republic of Anjouan",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12410,
+          71530
+        ]
+      },
+      {
+        "source": "MPA/Republic of Anjouan",
+        "target": "MPA - SOC",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12428,
+          12429,
+          12433
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 913,
+    "dataBasedName": "MPA - SOC",
+    "eventReportIds": [
+      12428,
+      12429,
+      12433
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "MPA/Republic of Anjouan": 3
+    },
+    "links": [
+      {
+        "source": "MPA/Republic of Anjouan",
+        "target": "MPA - SOC",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12428,
+          12429,
+          12433
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

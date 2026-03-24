@@ -1,0 +1,60 @@
+[
+  {
+    "id": 308,
+    "dataBasedName": "MEK",
+    "eventReportIds": [
+      115845
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Iran": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "MEK",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115845
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 114,
+    "dataBasedName": "Government of Iran",
+    "eventReportIds": [
+      115845
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "MEK": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "MEK",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115845
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

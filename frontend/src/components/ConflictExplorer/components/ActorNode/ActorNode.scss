@@ -1,0 +1,40 @@
+@import '../../styles/global_variables';
+
+
+.actor-node-content{
+    display: flex;
+    flex-direction:row;
+    padding: 5px !important;
+    padding-bottom: 5px !important;
+    position: relative;
+
+    .actor-node-icon{
+        width: 60px;
+        min-width: 60px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .actor-node-info{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .actor-node-action{
+        display: flex;
+        flex-direction: row;
+        height: 100%;
+
+        .actor-node-action-check{
+            display: flex;
+            flex-direction: row;
+        }
+
+        .actor-node-action-buttons{
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}

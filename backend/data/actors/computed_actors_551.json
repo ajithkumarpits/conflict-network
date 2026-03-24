@@ -1,0 +1,316 @@
+[
+  {
+    "id": 498,
+    "dataBasedName": "Renamo",
+    "eventReportIds": [
+      13183,
+      13191,
+      13199,
+      13931,
+      13934,
+      15393,
+      15423,
+      15518,
+      435580,
+      435584,
+      435585,
+      435586,
+      435587,
+      435588,
+      435591,
+      435592,
+      435594,
+      435596,
+      435598,
+      435599,
+      435600,
+      435601,
+      435602,
+      435603,
+      435605,
+      435606,
+      435607,
+      435609,
+      435610,
+      435613,
+      435614,
+      435615,
+      435635,
+      435636
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 34
+    },
+    "links": [
+      {
+        "source": "Renamo",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 34,
+        "reports": [
+          13183,
+          13191,
+          13199,
+          13931,
+          13934,
+          15393,
+          15423,
+          15518,
+          435580,
+          435584,
+          435585,
+          435586,
+          435587,
+          435588,
+          435591,
+          435592,
+          435594,
+          435596,
+          435598,
+          435599,
+          435600,
+          435601,
+          435602,
+          435603,
+          435605,
+          435606,
+          435607,
+          435609,
+          435610,
+          435613,
+          435614,
+          435615,
+          435635,
+          435636
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 99,
+    "dataBasedName": "Government of Angola",
+    "eventReportIds": [
+      21604,
+      22577
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "Government of Angola",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          21604,
+          22577
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 92059,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      13183,
+      13191,
+      13199,
+      13931,
+      13934,
+      15393,
+      15423,
+      15518,
+      435580,
+      435584,
+      435585,
+      435586,
+      435587,
+      435588,
+      435591,
+      435592,
+      435594,
+      435596,
+      435598,
+      435599,
+      435600,
+      435601,
+      435602,
+      435603,
+      435605,
+      435606,
+      435607,
+      435609,
+      435610,
+      435613,
+      435614,
+      435615,
+      435635,
+      435636,
+      24262,
+      20333,
+      21604,
+      22577
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Angola": 2,
+      "Government of DR Congo (Zaire)": 1,
+      "Renamo": 34,
+      "UNITA": 1
+    },
+    "links": [
+      {
+        "source": "Government of Angola",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          21604,
+          22577
+        ]
+      },
+      {
+        "source": "Government of DR Congo (Zaire)",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          24262
+        ]
+      },
+      {
+        "source": "Renamo",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 34,
+        "reports": [
+          13183,
+          13191,
+          13199,
+          13931,
+          13934,
+          15393,
+          15423,
+          15518,
+          435580,
+          435584,
+          435585,
+          435586,
+          435587,
+          435588,
+          435591,
+          435592,
+          435594,
+          435596,
+          435598,
+          435599,
+          435600,
+          435601,
+          435602,
+          435603,
+          435605,
+          435606,
+          435607,
+          435609,
+          435610,
+          435613,
+          435614,
+          435615,
+          435635,
+          435636
+        ]
+      },
+      {
+        "source": "UNITA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          20333
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 89,
+    "dataBasedName": "Government of DR Congo (Zaire)",
+    "eventReportIds": [
+      24262
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of DR Congo (Zaire)",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          24262
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 567,
+    "dataBasedName": "UNITA",
+    "eventReportIds": [
+      20333
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "UNITA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          20333
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

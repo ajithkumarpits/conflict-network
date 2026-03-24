@@ -1,0 +1,118 @@
+[
+  {
+    "id": 28,
+    "dataBasedName": "Government of United Kingdom",
+    "eventReportIds": [
+      66338
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "PIRA": 1
+    },
+    "links": [
+      {
+        "source": "Government of United Kingdom",
+        "target": "PIRA",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          66338
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 308,
+    "dataBasedName": "MEK",
+    "eventReportIds": [
+      278670
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Iran": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "MEK",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          278670
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 282,
+    "dataBasedName": "PIRA",
+    "eventReportIds": [
+      66338
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of United Kingdom": 1
+    },
+    "links": [
+      {
+        "source": "Government of United Kingdom",
+        "target": "PIRA",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          66338
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 114,
+    "dataBasedName": "Government of Iran",
+    "eventReportIds": [
+      278670
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "MEK": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "MEK",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          278670
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 99409,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      186021,
+      186023,
+      186024,
+      186025,
+      186026,
+      186027
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Romania": 6
+    },
+    "links": [
+      {
+        "source": "Government of Romania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          186021,
+          186023,
+          186024,
+          186025,
+          186026,
+          186027
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 56,
+    "dataBasedName": "Government of Romania",
+    "eventReportIds": [
+      186013,
+      186014,
+      186015,
+      186016,
+      186017,
+      186018,
+      186019,
+      186020,
+      186021,
+      186022,
+      186023,
+      186024,
+      186025,
+      186026,
+      186027,
+      186028
+    ],
+    "eventTypeSummary": {
+      "1": 0.625,
+      "3": 0.375
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 6,
+      "Military faction (forces of Nicolae Ceausescu)": 5,
+      "NSF": 5
+    },
+    "links": [
+      {
+        "source": "Government of Romania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          186021,
+          186023,
+          186024,
+          186025,
+          186026,
+          186027
+        ]
+      },
+      {
+        "source": "Government of Romania",
+        "target": "Military faction (forces of Nicolae Ceausescu)",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          186013,
+          186016,
+          186017,
+          186019,
+          186020
+        ]
+      },
+      {
+        "source": "Government of Romania",
+        "target": "NSF",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          186014,
+          186015,
+          186018,
+          186022,
+          186028
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 6137,
+    "dataBasedName": "Military faction (forces of Nicolae Ceausescu)",
+    "eventReportIds": [
+      186013,
+      186016,
+      186017,
+      186019,
+      186020
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Romania": 5
+    },
+    "links": [
+      {
+        "source": "Government of Romania",
+        "target": "Military faction (forces of Nicolae Ceausescu)",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          186013,
+          186016,
+          186017,
+          186019,
+          186020
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 237,
+    "dataBasedName": "NSF",
+    "eventReportIds": [
+      186014,
+      186015,
+      186018,
+      186022,
+      186028
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Romania": 5
+    },
+    "links": [
+      {
+        "source": "Government of Romania",
+        "target": "NSF",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          186014,
+          186015,
+          186018,
+          186022,
+          186028
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

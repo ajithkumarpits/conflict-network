@@ -1,0 +1,99 @@
+@import  '../../styles/global';
+
+.country-view{
+    background-color: $white;
+    max-height: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    //*** For future reference we keep it for now ,will remove later *** //
+    // overflow:hidden;
+
+    .country-header{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        position: fixed;
+        left: 0;        
+        width: 100%;
+        z-index: 3;
+        background-color: $white;
+        .right, .back-button{ // right is an empty element to align the button to left, and the title to center
+            flex:1;
+        }
+    }
+    .country-content{
+        width: 100%;
+        height: 100%;
+        min-height: 0;
+        /* Hide scrollbar for IE, Edge and Firefox */
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+        //gap: 40px;
+        .dyad-list{
+            height: 100%;
+            width: 100%;
+            min-height: 0;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            padding-right: 0;
+            .dyad-list-wrapper{
+                max-height: 100%;
+                overflow-y: scroll;
+                display: flex;
+                flex-direction: column;
+                /* Hide scrollbar for IE, Edge and Firefox */
+                -ms-overflow-style: none;  /* IE and Edge */
+                scrollbar-width: none;  /* Firefox */
+                margin-bottom: 15px;
+                .MuiTabs-flexContainer {
+                    gap: 60px;
+                    @media (max-width: 900px) {
+                        gap: 25px;
+                    }
+                }
+
+            }
+        }
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .dyad-list-wrapper::-webkit-scrollbar {
+            display: none;
+        }
+
+        .numbers-display{
+            width: 100%;
+            display: flex; 
+            flex-direction: column;
+            margin-top: 0;
+            /* Hide scrollbar for IE, Edge and Firefox */
+           // -ms-overflow-style: none;  /* IE and Edge */
+            //scrollbar-width: none;  /* Firefox */
+            .total-numbers{
+                display: flex;
+                flex-direction: row;
+                //justify-content: flex-start;
+                align-items: center;
+                flex-wrap: wrap;                
+            }
+            .timeline-numbers{
+                width: 100%;
+                display: flex;
+                min-height: 397px;              
+            }
+        }
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .numbers-display::-webkit-scrollbar {
+            display: none;
+        }
+        .empty-display {
+           padding: $padding-extra-big;
+        }
+    }
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .country-content::-webkit-scrollbar {
+        display: none;
+    }
+}

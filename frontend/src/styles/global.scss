@@ -1,0 +1,139 @@
+// colours
+$dark-blue: #17344E;
+$medium-blue: #22486A;
+$light-blue: #3D76AB;
+$white: #ffffff;
+$black: #000000;
+$dark-grey: #E0E0E0;
+$light-grey: #F5F5F5;
+$light-yellow: #fbe5b9;
+$medium-yellow: #f1c232;
+$dark-yellow: #c38a19;
+$cat-green: #228833;
+$cat-purple: #AA3377;
+$cat-blue: #4477AA;
+$cat-light-grey: #bdbdbd;
+$cat-medium-grey: #636363;
+$cat-dark-grey: #272727;
+$no-data-colour: $white;
+$extra-dark-blue: #102A42;
+
+$cat-blue-50: #4D74A6;
+$light-blue-20: #CDE1F5;
+$light-blue-40: #E5E7EB;
+$light-blue-50: #B9C2CA;
+$light-blue-250: #667785;
+$medium-blue-300: #1F3E59;
+$dark-blue-600: #102a42;
+$dark-blue-850: #1A202C;
+$light-grey-50: #fafafa;
+$light-grey-20: #F1F9FF;
+$light-grey-100: #F3F3F3;
+$light-grey-200: #E1E1E1;
+
+$red-medium: #B24C4E;
+
+
+// font sizes
+$font-huge: 72pt;
+$font-semi-huge: 64pt;
+$font-Xlarge: 48pt;
+$font-large: 32pt;
+$font-medium: 28pt;
+$font-small: 18pt;
+$font-xsmall: 14pt;
+$font-text: 12pt;
+$font-xxsmall: 10pt;
+
+$font-xs-small: 12px;
+$font-xs-medium: 14px;
+$font-small-medium: 16px;
+$font-x-medium: 18px;
+$font-semi-medium: 24px;
+$font-extra-medium: 30px;
+
+
+
+
+//sizes and margins/paddings
+$header-height: 106px;
+$padding-big: 18px;
+$padding-small: 14px;
+$margin-small: 14px;
+$margin-x-small: 4px;
+$logo-size: 60px;
+$border-radius-small: 4px;
+$border-radius-big: 8px;
+$text-max-width: 22cm;
+
+$padding-extra-small: 10px;
+$padding-extra-big: 20px;
+
+//line-height
+$line-height-22: 22px;
+$line-height-24: 24px;
+
+// input filter textbox
+$input-filter-text-width: 350px;
+
+// box shadow
+$box-shadow: 1px 1px 3px $dark-blue;
+
+// export s.t. they can be used as variables in js files
+:export{
+    darkPrimary: $dark-blue;
+    mediumPrimary: $medium-blue;
+    lightPrimary: $light-blue;
+    textLight: $white;
+    textMedium: $dark-blue;
+    textDark: $black;
+    darkSecondary: $dark-grey;
+    lightSecondary: $light-grey;
+    catLight: $light-yellow;
+    catMedium: $medium-yellow;
+    catDark: $dark-yellow;
+    catGreen: $cat-green;
+    catPurple: $cat-purple;
+    catBlue: $cat-blue;
+    fontHuge: $font-huge;
+    fontSemiHuge: $font-semi-huge;
+    fontXLarge: $font-Xlarge;
+    fontLarge: $font-large;
+    fontMedium: $font-medium;
+    fontSmall: $font-small;
+    fontXSmall: $font-xsmall;
+    fontText: $font-text;
+    fontXXSmall: $font-xxsmall;
+    borderRadiusSmall: $border-radius-small;
+    catLightGrey: $cat-light-grey;
+    catMediumGrey: $cat-medium-grey;
+    catDarkGrey: $cat-dark-grey;
+    noDataColour: $no-data-colour;
+    inputFilterTextWidth: $input-filter-text-width;
+    maxWidthText:$text-max-width;
+    extraDarkBlue: $extra-dark-blue;
+    fontXsMedium: $font-xs-medium;
+    fontXMedium: $font-x-medium;
+    fontSmallMedium: $font-small-medium;
+    lineHeight22: $line-height-22;
+    lineHeight24: $line-height-24;
+    fontSemiMedium: $font-semi-medium;
+    fontXsSmall:$font-xs-small;
+    fontExtraMdium: $font-extra-medium;
+    
+    catBlue50:$cat-blue-50;  
+    lightBlue20:$light-blue-20;    
+    lightBlue40:$light-blue-40;
+    lightBlue50:$light-blue-50;
+    lightBlue250:$light-blue-250;
+    mediumBlue300:$medium-blue-300;
+    darkBlue600:$dark-blue-600;
+    darkBlue850:$dark-blue-850;
+    lightGrey50: $light-grey-50;
+    lightGrey20:$light-grey-20;
+    lightGrey100:$light-grey-100;
+    lightGrey200:$light-grey-200;
+    redMedium:$red-medium;
+}   
+
+

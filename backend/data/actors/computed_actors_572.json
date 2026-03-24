@@ -1,0 +1,180 @@
+[
+  {
+    "id": 94229,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      14863,
+      18642,
+      293103,
+      339521,
+      352847,
+      352849,
+      352855,
+      406577,
+      406590,
+      406597,
+      406613,
+      414587,
+      414615,
+      414617,
+      414619,
+      419534,
+      419537,
+      419563,
+      464917,
+      464939,
+      466916,
+      502824
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of South Africa": 2,
+      "Government of eSwatini (Swaziland)": 20
+    },
+    "links": [
+      {
+        "source": "Government of South Africa",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          14863,
+          18642
+        ]
+      },
+      {
+        "source": "Government of eSwatini (Swaziland)",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 20,
+        "reports": [
+          293103,
+          339521,
+          352847,
+          352849,
+          352855,
+          406577,
+          406590,
+          406597,
+          406613,
+          414587,
+          414615,
+          414617,
+          414619,
+          419534,
+          419537,
+          419563,
+          464917,
+          464939,
+          466916,
+          502824
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 1212,
+    "dataBasedName": "Government of eSwatini (Swaziland)",
+    "eventReportIds": [
+      293103,
+      339521,
+      352847,
+      352849,
+      352855,
+      406577,
+      406590,
+      406597,
+      406613,
+      414587,
+      414615,
+      414617,
+      414619,
+      419534,
+      419537,
+      419563,
+      464917,
+      464939,
+      466916,
+      502824
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 20
+    },
+    "links": [
+      {
+        "source": "Government of eSwatini (Swaziland)",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 20,
+        "reports": [
+          293103,
+          339521,
+          352847,
+          352849,
+          352855,
+          406577,
+          406590,
+          406597,
+          406613,
+          414587,
+          414615,
+          414617,
+          414619,
+          419534,
+          419537,
+          419563,
+          464917,
+          464939,
+          466916,
+          502824
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 102,
+    "dataBasedName": "Government of South Africa",
+    "eventReportIds": [
+      14863,
+      18642
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "Government of South Africa",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          14863,
+          18642
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

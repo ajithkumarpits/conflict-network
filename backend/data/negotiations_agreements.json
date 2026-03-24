@@ -1,0 +1,2434 @@
+{
+  "2": {
+    "negotiations": 7,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "20": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "31": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "40": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "41": {
+    "negotiations": 28,
+    "agreements": 2,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "42": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "51": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "52": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "53": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "54": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "55": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "56": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "57": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "58": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "60": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "70": {
+    "negotiations": 86,
+    "agreements": 2,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "80": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "90": {
+    "negotiations": 73,
+    "agreements": 18,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "91": {
+    "negotiations": 3,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "92": {
+    "negotiations": 33,
+    "agreements": 15,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "93": {
+    "negotiations": 31,
+    "agreements": 11,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "94": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "95": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "100": {
+    "negotiations": 208,
+    "agreements": 67,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "101": {
+    "negotiations": 5,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "110": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "115": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "130": {
+    "negotiations": 42,
+    "agreements": 12,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "135": {
+    "negotiations": 39,
+    "agreements": 12,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "140": {
+    "negotiations": 28,
+    "agreements": 1,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "145": {
+    "negotiations": 8,
+    "agreements": 5,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "150": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "155": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "160": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "165": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "200": {
+    "negotiations": 208,
+    "agreements": 2,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "205": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "210": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "211": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "212": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "220": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "221": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "223": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "225": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "230": {
+    "negotiations": 39,
+    "agreements": 2,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "232": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "235": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "260": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "290": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "305": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "310": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "315": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "317": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "325": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "331": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "338": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "339": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "340": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "341": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "343": {
+    "negotiations": 12,
+    "agreements": 3,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "344": {
+    "negotiations": 59,
+    "agreements": 26,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "345": {
+    "negotiations": 89,
+    "agreements": 23,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "346": {
+    "negotiations": 380,
+    "agreements": 114,
+    "agreements_bin": [
+      82,
+      114
+    ],
+    "negotiations_bin": [
+      332,
+      443
+    ]
+  },
+  "349": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "350": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "352": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "355": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "359": {
+    "negotiations": 177,
+    "agreements": 20,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      108,
+      177
+    ]
+  },
+  "360": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "365": {
+    "negotiations": 105,
+    "agreements": 31,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "366": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "367": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "368": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "369": {
+    "negotiations": 573,
+    "agreements": 48,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      443,
+      573
+    ]
+  },
+  "370": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "371": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "372": {
+    "negotiations": 443,
+    "agreements": 82,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      332,
+      443
+    ]
+  },
+  "373": {
+    "negotiations": 442,
+    "agreements": 46,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      332,
+      443
+    ]
+  },
+  "375": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "380": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "385": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "390": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "395": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "402": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "403": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "404": {
+    "negotiations": 14,
+    "agreements": 7,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "411": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "420": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "432": {
+    "negotiations": 265,
+    "agreements": 74,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "433": {
+    "negotiations": 47,
+    "agreements": 13,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "434": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "435": {
+    "negotiations": 13,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "436": {
+    "negotiations": 45,
+    "agreements": 18,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "437": {
+    "negotiations": 65,
+    "agreements": 30,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "438": {
+    "negotiations": 8,
+    "agreements": 1,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "439": {
+    "negotiations": 4,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "450": {
+    "negotiations": 80,
+    "agreements": 48,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "451": {
+    "negotiations": 36,
+    "agreements": 20,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "452": {
+    "negotiations": 30,
+    "agreements": 12,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "461": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "471": {
+    "negotiations": 30,
+    "agreements": 4,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "475": {
+    "negotiations": 495,
+    "agreements": 229,
+    "agreements_bin": [
+      187,
+      229
+    ],
+    "negotiations_bin": [
+      443,
+      573
+    ]
+  },
+  "481": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "482": {
+    "negotiations": 145,
+    "agreements": 91,
+    "agreements_bin": [
+      82,
+      114
+    ],
+    "negotiations_bin": [
+      108,
+      177
+    ]
+  },
+  "483": {
+    "negotiations": 88,
+    "agreements": 41,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "484": {
+    "negotiations": 25,
+    "agreements": 17,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "490": {
+    "negotiations": 332,
+    "agreements": 104,
+    "agreements_bin": [
+      82,
+      114
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "500": {
+    "negotiations": 206,
+    "agreements": 63,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "501": {
+    "negotiations": 265,
+    "agreements": 71,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "510": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "516": {
+    "negotiations": 84,
+    "agreements": 28,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "517": {
+    "negotiations": 79,
+    "agreements": 26,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "520": {
+    "negotiations": 215,
+    "agreements": 96,
+    "agreements_bin": [
+      82,
+      114
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "522": {
+    "negotiations": 18,
+    "agreements": 5,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "530": {
+    "negotiations": 283,
+    "agreements": 62,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "531": {
+    "negotiations": 29,
+    "agreements": 8,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "540": {
+    "negotiations": 42,
+    "agreements": 13,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "541": {
+    "negotiations": 65,
+    "agreements": 16,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "551": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "552": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "553": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "560": {
+    "negotiations": 56,
+    "agreements": 22,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "565": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "570": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "571": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "572": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "580": {
+    "negotiations": 16,
+    "agreements": 3,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "581": {
+    "negotiations": 17,
+    "agreements": 9,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "590": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "591": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "600": {
+    "negotiations": 35,
+    "agreements": 1,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "615": {
+    "negotiations": 16,
+    "agreements": 4,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "616": {
+    "negotiations": 3,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "620": {
+    "negotiations": 218,
+    "agreements": 64,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "625": {
+    "negotiations": 563,
+    "agreements": 219,
+    "agreements_bin": [
+      187,
+      229
+    ],
+    "negotiations_bin": [
+      443,
+      573
+    ]
+  },
+  "626": {
+    "negotiations": 303,
+    "agreements": 104,
+    "agreements_bin": [
+      82,
+      114
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "630": {
+    "negotiations": 11,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "640": {
+    "negotiations": 36,
+    "agreements": 4,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "645": {
+    "negotiations": 81,
+    "agreements": 30,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "651": {
+    "negotiations": 24,
+    "agreements": 5,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "652": {
+    "negotiations": 326,
+    "agreements": 187,
+    "agreements_bin": [
+      114,
+      187
+    ],
+    "negotiations_bin": [
+      233,
+      332
+    ]
+  },
+  "660": {
+    "negotiations": 153,
+    "agreements": 53,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      108,
+      177
+    ]
+  },
+  "663": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "666": {
+    "negotiations": 415,
+    "agreements": 82,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      332,
+      443
+    ]
+  },
+  "670": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "678": {
+    "negotiations": 209,
+    "agreements": 48,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "680": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "690": {
+    "negotiations": 12,
+    "agreements": 2,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "692": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "694": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "696": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "698": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "700": {
+    "negotiations": 233,
+    "agreements": 79,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "701": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "702": {
+    "negotiations": 54,
+    "agreements": 32,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "703": {
+    "negotiations": 6,
+    "agreements": 6,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "704": {
+    "negotiations": 2,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "705": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "710": {
+    "negotiations": 127,
+    "agreements": 12,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      108,
+      177
+    ]
+  },
+  "712": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "731": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "732": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "740": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "750": {
+    "negotiations": 558,
+    "agreements": 79,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      443,
+      573
+    ]
+  },
+  "760": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "770": {
+    "negotiations": 211,
+    "agreements": 49,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "771": {
+    "negotiations": 47,
+    "agreements": 31,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "775": {
+    "negotiations": 146,
+    "agreements": 63,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      108,
+      177
+    ]
+  },
+  "780": {
+    "negotiations": 51,
+    "agreements": 10,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "781": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "790": {
+    "negotiations": 61,
+    "agreements": 14,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "800": {
+    "negotiations": 57,
+    "agreements": 12,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "811": {
+    "negotiations": 95,
+    "agreements": 19,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "812": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "817": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "820": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "830": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "835": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "840": {
+    "negotiations": 184,
+    "agreements": 77,
+    "agreements_bin": [
+      53,
+      82
+    ],
+    "negotiations_bin": [
+      177,
+      233
+    ]
+  },
+  "850": {
+    "negotiations": 80,
+    "agreements": 21,
+    "agreements_bin": [
+      19,
+      32
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "860": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "900": {
+    "negotiations": 1,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "910": {
+    "negotiations": 108,
+    "agreements": 44,
+    "agreements_bin": [
+      32,
+      53
+    ],
+    "negotiations_bin": [
+      61,
+      108
+    ]
+  },
+  "920": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "935": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "940": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "950": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "970": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "971": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "972": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "973": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "983": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "986": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "987": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "990": {
+    "negotiations": 0,
+    "agreements": 0,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      0,
+      18
+    ]
+  },
+  "1001": {
+    "negotiations": 35,
+    "agreements": 1,
+    "agreements_bin": [
+      0,
+      6
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "1002": {
+    "negotiations": 26,
+    "agreements": 9,
+    "agreements_bin": [
+      6,
+      19
+    ],
+    "negotiations_bin": [
+      18,
+      61
+    ]
+  },
+  "agreements": [
+    [
+      0,
+      6
+    ],
+    [
+      6,
+      19
+    ],
+    [
+      19,
+      32
+    ],
+    [
+      32,
+      53
+    ],
+    [
+      53,
+      82
+    ],
+    [
+      82,
+      114
+    ],
+    [
+      114,
+      187
+    ],
+    [
+      187,
+      229
+    ]
+  ],
+  "negotiations": [
+    [
+      0,
+      18
+    ],
+    [
+      18,
+      61
+    ],
+    [
+      61,
+      108
+    ],
+    [
+      108,
+      177
+    ],
+    [
+      177,
+      233
+    ],
+    [
+      233,
+      332
+    ],
+    [
+      332,
+      443
+    ],
+    [
+      443,
+      573
+    ]
+  ]
+}

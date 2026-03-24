@@ -1,0 +1,58 @@
+@import  '../../styles/global';
+
+.conflict-view{
+    width: 100%;
+    //height: 100%;
+    display: flex;
+    flex-direction: column;
+    >.conflict-explorer {
+        background-color: $white;
+        height: 100vh;
+    }
+    .conflict-explorer{
+        width: 100%;
+        //height: 100%;
+        
+        .conflict-explorer-header {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            position: fixed;
+            left: 0;        
+            width: 100%;
+            z-index: 3;
+            background-color: $white;
+            .right, .back-button{ 
+                // right is an empty element to align the button to left, and the title to center
+                flex:1;
+            }
+        }
+    }
+    .world-view{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        background-color: $dark-blue;
+    }
+    
+}
+.data-source-info{
+    width: 100%;
+    //position: absolute;
+    // left: 0;
+    // bottom: 20px;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;   
+    p {
+        color: $light-blue-250;
+        font-weight: 400;
+        a {
+            color: $light-blue-250
+        }
+    }
+}

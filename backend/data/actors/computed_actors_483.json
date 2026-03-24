@@ -1,0 +1,3543 @@
+[
+  {
+    "id": 468,
+    "dataBasedName": "JEM",
+    "eventReportIds": [
+      8303,
+      7575,
+      8063,
+      8194,
+      9040
+    ],
+    "eventTypeSummary": {
+      "1": 0.8,
+      "2": 0.0,
+      "3": 0.2
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Sudan": 4,
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of Sudan",
+        "target": "JEM",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          7575,
+          8063,
+          8194,
+          9040
+        ]
+      },
+      {
+        "source": "JEM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          8303
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1087,
+    "dataBasedName": "Awlad Zeid",
+    "eventReportIds": [
+      236374
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Zaghawa": 1
+    },
+    "links": [
+      {
+        "source": "Awlad Zeid",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          236374
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7151,
+    "dataBasedName": "CCMSR",
+    "eventReportIds": [
+      263084,
+      263532,
+      265528,
+      266443,
+      331731,
+      446982,
+      480804,
+      508446,
+      512043,
+      512044,
+      512047
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 11
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "CCMSR",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          263084,
+          263532,
+          265528,
+          266443,
+          331731,
+          446982,
+          480804,
+          508446,
+          512043,
+          512044,
+          512047
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 74757,
+    "dataBasedName": "Masalit",
+    "eventReportIds": [
+      7910
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Rizeigat Abbala": 1
+    },
+    "links": [
+      {
+        "source": "Masalit",
+        "target": "Rizeigat Abbala",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          7910
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 87,
+    "dataBasedName": "Government of Chad",
+    "eventReportIds": [
+      11905,
+      11908,
+      11913,
+      11914,
+      11981,
+      11986,
+      11996,
+      12035,
+      12052,
+      12062,
+      12063,
+      12065,
+      12069,
+      12071,
+      12072,
+      12074,
+      12077,
+      12080,
+      12086,
+      12088,
+      12098,
+      12110,
+      12134,
+      12139,
+      12142,
+      12148,
+      12151,
+      12154,
+      12167,
+      12168,
+      12169,
+      12170,
+      12177,
+      12179,
+      12198,
+      12208,
+      12210,
+      12212,
+      12221,
+      12256,
+      12257,
+      12261,
+      12264,
+      12268,
+      12274,
+      12275,
+      12276,
+      12280,
+      12294,
+      12295,
+      12305,
+      12317,
+      12324,
+      12325,
+      12326,
+      12329,
+      12331,
+      12335,
+      12412,
+      11844,
+      11847,
+      11918,
+      11973,
+      11977,
+      12019,
+      12023,
+      12026,
+      12028,
+      12030,
+      12031,
+      12039,
+      12058,
+      12060,
+      12078,
+      12081,
+      12082,
+      12083,
+      12138,
+      12145,
+      12157,
+      12163,
+      12166,
+      12171,
+      12178,
+      12182,
+      12186,
+      12206,
+      12222,
+      12241,
+      12250,
+      12254,
+      12271,
+      12288,
+      12315,
+      12316,
+      12328,
+      12340,
+      12348,
+      12349,
+      12350,
+      12379,
+      12402,
+      68652,
+      68653,
+      68663,
+      11898,
+      12022,
+      12075,
+      12084,
+      12087,
+      12093,
+      12105,
+      12109,
+      12126,
+      12130,
+      12141,
+      12144,
+      12162,
+      12174,
+      12187,
+      12188,
+      12219,
+      12220,
+      12231,
+      12248,
+      12255,
+      12258,
+      12266,
+      12267,
+      12270,
+      12277,
+      12310,
+      12323,
+      12333,
+      12334,
+      12336,
+      12338,
+      12342,
+      12399,
+      11980,
+      11989,
+      11991,
+      11995,
+      12147,
+      12150,
+      12160,
+      12183,
+      12184,
+      12201,
+      12251,
+      12260,
+      12291,
+      12318,
+      12339,
+      12386,
+      12417,
+      11848,
+      11849,
+      11978,
+      11983,
+      12025,
+      12029,
+      12034,
+      12037,
+      12045,
+      12047,
+      12049,
+      12053,
+      12079,
+      12085,
+      12091,
+      12092,
+      12099,
+      12119,
+      12121,
+      12122,
+      12123,
+      12124,
+      12128,
+      12133,
+      12136,
+      12137,
+      12143,
+      12152,
+      12153,
+      12155,
+      12158,
+      12181,
+      12185,
+      12190,
+      12193,
+      12211,
+      12217,
+      12233,
+      12242,
+      12243,
+      12262,
+      12278,
+      12281,
+      12289,
+      12320,
+      12337,
+      12351,
+      12405,
+      107729,
+      11988,
+      12061,
+      12132,
+      12135,
+      12173,
+      12265,
+      12330,
+      12332,
+      12344,
+      195185,
+      195684,
+      196059,
+      196890,
+      197658,
+      197667,
+      197668,
+      197669,
+      198296,
+      205818,
+      207417,
+      207418,
+      212008,
+      212319,
+      218876,
+      231035,
+      231138,
+      231139,
+      231170,
+      237684,
+      241304,
+      254091,
+      255045,
+      256480,
+      263084,
+      263532,
+      265528,
+      265803,
+      265804,
+      265805,
+      266443,
+      268933,
+      268937,
+      277482,
+      285466,
+      285468,
+      285469,
+      287017,
+      287839,
+      290401,
+      294302,
+      299607,
+      300064,
+      307447,
+      307815,
+      328338,
+      328504,
+      331731,
+      339051,
+      339053,
+      339067,
+      343072,
+      346818,
+      348384,
+      348385,
+      357959,
+      357967,
+      357970,
+      357975,
+      364168,
+      370541,
+      370544,
+      374337,
+      374338,
+      381587,
+      383298,
+      389918,
+      391668,
+      391745,
+      395677,
+      395714,
+      395733,
+      395891,
+      395957,
+      414435,
+      423079,
+      427623,
+      431597,
+      432639,
+      432640,
+      446962,
+      446982,
+      456926,
+      480804,
+      508446,
+      512043,
+      512044,
+      512047
+    ],
+    "eventTypeSummary": {
+      "1": 0.7549668874172185,
+      "2": 0.0,
+      "3": 0.24503311258278146
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AN": 12,
+      "CCMSR": 11,
+      "CNR": 5,
+      "CSNPD": 7,
+      "Civilians": 74,
+      "FACT": 3,
+      "FARF": 3,
+      "FNT": 3,
+      "FPRN": 2,
+      "FUCD": 13,
+      "IS": 67,
+      "Islamic Legion": 11,
+      "MDD": 19,
+      "MDJT": 35,
+      "MOSANAT": 2,
+      "MPS": 5,
+      "Military faction (forces of Maldoum Bada Abbas)": 3,
+      "RAFD": 6,
+      "UFDD": 12,
+      "UFR": 9
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "AN",
+        "linkType": 1,
+        "count": 12,
+        "reports": [
+          11848,
+          12099,
+          12124,
+          12128,
+          12152,
+          12153,
+          12190,
+          12217,
+          12281,
+          12320,
+          12405,
+          107729
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "CCMSR",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          263084,
+          263532,
+          265528,
+          266443,
+          331731,
+          446982,
+          480804,
+          508446,
+          512043,
+          512044,
+          512047
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "CNR",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12148,
+          12151,
+          12154,
+          68652,
+          68653
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "CSNPD",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          12280,
+          12325,
+          12026,
+          12082,
+          12254,
+          12328,
+          12093
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 74,
+        "reports": [
+          11905,
+          11913,
+          11914,
+          11986,
+          12062,
+          12063,
+          12072,
+          12077,
+          12098,
+          12110,
+          12134,
+          12177,
+          12198,
+          12261,
+          12268,
+          12305,
+          12326,
+          11844,
+          11847,
+          11918,
+          11973,
+          11977,
+          12023,
+          12028,
+          12030,
+          12031,
+          12058,
+          12060,
+          12078,
+          12083,
+          12138,
+          12145,
+          12157,
+          12163,
+          12171,
+          12178,
+          12182,
+          12186,
+          12206,
+          12222,
+          12241,
+          12271,
+          12288,
+          12315,
+          12316,
+          12340,
+          12348,
+          12349,
+          12350,
+          12379,
+          12402,
+          11898,
+          12130,
+          12162,
+          12174,
+          12187,
+          12231,
+          12255,
+          12266,
+          12267,
+          12270,
+          12336,
+          12318,
+          12047,
+          12053,
+          12085,
+          12133,
+          12185,
+          212319,
+          231035,
+          231138,
+          414435,
+          427623,
+          432640
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FACT",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          395714,
+          395733,
+          395957
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FARF",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12081,
+          12220,
+          12258
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FNT",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12257,
+          12166,
+          68663
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FPRN",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12181,
+          12173
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FUCD",
+        "linkType": 1,
+        "count": 13,
+        "reports": [
+          11849,
+          11983,
+          12029,
+          12037,
+          12079,
+          12091,
+          12092,
+          12119,
+          12121,
+          12143,
+          12193,
+          12211,
+          12337
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "IS",
+        "linkType": 1,
+        "count": 67,
+        "reports": [
+          195185,
+          195684,
+          196059,
+          196890,
+          197658,
+          197667,
+          197668,
+          197669,
+          198296,
+          205818,
+          207417,
+          207418,
+          212008,
+          218876,
+          231139,
+          231170,
+          237684,
+          241304,
+          254091,
+          255045,
+          256480,
+          265803,
+          265804,
+          265805,
+          268933,
+          268937,
+          285466,
+          285468,
+          285469,
+          287017,
+          287839,
+          290401,
+          294302,
+          299607,
+          300064,
+          307447,
+          307815,
+          328338,
+          328504,
+          339051,
+          339053,
+          339067,
+          343072,
+          346818,
+          348384,
+          348385,
+          357959,
+          357967,
+          357970,
+          357975,
+          364168,
+          370541,
+          370544,
+          374337,
+          374338,
+          381587,
+          383298,
+          389918,
+          391668,
+          391745,
+          395677,
+          395891,
+          423079,
+          431597,
+          432639,
+          446962,
+          456926
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "Islamic Legion",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          11996,
+          12035,
+          12069,
+          12086,
+          12088,
+          12210,
+          12275,
+          12295,
+          12331,
+          12335,
+          12412
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "MDD",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          12052,
+          12065,
+          12071,
+          12074,
+          12080,
+          12142,
+          12167,
+          12168,
+          12170,
+          12208,
+          12221,
+          12274,
+          12294,
+          12324,
+          12329,
+          12019,
+          12039,
+          12250,
+          12310
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "MDJT",
+        "linkType": 1,
+        "count": 35,
+        "reports": [
+          12022,
+          12075,
+          12084,
+          12087,
+          12105,
+          12109,
+          12126,
+          12141,
+          12144,
+          12188,
+          12219,
+          12248,
+          12277,
+          12323,
+          12333,
+          12334,
+          12338,
+          12342,
+          12399,
+          11980,
+          11989,
+          11991,
+          11995,
+          12147,
+          12150,
+          12160,
+          12183,
+          12184,
+          12201,
+          12251,
+          12260,
+          12291,
+          12339,
+          12386,
+          12417
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "MOSANAT",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12169,
+          12256
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "MPS",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12139,
+          12179,
+          12212,
+          12264,
+          12276
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "Military faction (forces of Maldoum Bada Abbas)",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          11908,
+          11981,
+          12317
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "RAFD",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          12034,
+          12122,
+          12137,
+          12158,
+          12243,
+          12262
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "UFDD",
+        "linkType": 1,
+        "count": 12,
+        "reports": [
+          11978,
+          12025,
+          12045,
+          12049,
+          12123,
+          12136,
+          12155,
+          12233,
+          12242,
+          12278,
+          12289,
+          12351
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "UFR",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          11988,
+          12061,
+          12132,
+          12135,
+          12265,
+          12330,
+          12332,
+          12344,
+          277482
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 86,
+    "dataBasedName": "Government of Central African Republic",
+    "eventReportIds": [
+      20302
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of Central African Republic",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          20302
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 453,
+    "dataBasedName": "FUCD",
+    "eventReportIds": [
+      11849,
+      11983,
+      12029,
+      12037,
+      12079,
+      12091,
+      12092,
+      12119,
+      12121,
+      12143,
+      12193,
+      12211,
+      12337
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 13
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "FUCD",
+        "linkType": 1,
+        "count": 13,
+        "reports": [
+          11849,
+          11983,
+          12029,
+          12037,
+          12079,
+          12091,
+          12092,
+          12119,
+          12121,
+          12143,
+          12193,
+          12211,
+          12337
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 637,
+    "dataBasedName": "Kibete",
+    "eventReportIds": [
+      12057,
+      395680
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Kagal": 1
+    },
+    "oppositions": {
+      "Arab": 1,
+      "Darsalim": 1
+    },
+    "links": [
+      {
+        "source": "Kagal",
+        "target": "Kibete",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kagal",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kibete",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Darsalim",
+        "target": "Kibete",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          12057
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 91979,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      11905,
+      11913,
+      11914,
+      11986,
+      12062,
+      12063,
+      12072,
+      12077,
+      12098,
+      12110,
+      12134,
+      12177,
+      12198,
+      12261,
+      12268,
+      12305,
+      12326,
+      11844,
+      11847,
+      11918,
+      11973,
+      11977,
+      11992,
+      12023,
+      12028,
+      12030,
+      12031,
+      12058,
+      12060,
+      12078,
+      12083,
+      12138,
+      12140,
+      12145,
+      12157,
+      12163,
+      12171,
+      12178,
+      12182,
+      12186,
+      12206,
+      12222,
+      12241,
+      12271,
+      12273,
+      12279,
+      12288,
+      12296,
+      12315,
+      12316,
+      12340,
+      12341,
+      12348,
+      12349,
+      12350,
+      12379,
+      12402,
+      11898,
+      12042,
+      12102,
+      12120,
+      12130,
+      12131,
+      12162,
+      12174,
+      12187,
+      12231,
+      12255,
+      12266,
+      12267,
+      12270,
+      12300,
+      12336,
+      12418,
+      6814,
+      6929,
+      6935,
+      7114,
+      7590,
+      7650,
+      7802,
+      7945,
+      12318,
+      20302,
+      6834,
+      6916,
+      6931,
+      6957,
+      7095,
+      7580,
+      7585,
+      7620,
+      7623,
+      7648,
+      7694,
+      7696,
+      7709,
+      7739,
+      7746,
+      7747,
+      7815,
+      7900,
+      7938,
+      7971,
+      7983,
+      8077,
+      8083,
+      8091,
+      8095,
+      8104,
+      8249,
+      8250,
+      8252,
+      8260,
+      8267,
+      8297,
+      8303,
+      8398,
+      8402,
+      8438,
+      8464,
+      8573,
+      8615,
+      8699,
+      8930,
+      8931,
+      8958,
+      9084,
+      9168,
+      12047,
+      12053,
+      12085,
+      12133,
+      12185,
+      144082,
+      193294,
+      194237,
+      194251,
+      196466,
+      196468,
+      196484,
+      196607,
+      206378,
+      207458,
+      207703,
+      212000,
+      212319,
+      212323,
+      213016,
+      218878,
+      231035,
+      231138,
+      240967,
+      260102,
+      279552,
+      286927,
+      294417,
+      307444,
+      307813,
+      319152,
+      321732,
+      322739,
+      322996,
+      327480,
+      348615,
+      371006,
+      371007,
+      391764,
+      414435,
+      416252,
+      427623,
+      432640,
+      502212,
+      502382
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "CSNPD": 5,
+      "FARF": 7,
+      "Government of Central African Republic": 1,
+      "Government of Chad": 74,
+      "Government of Sudan": 3,
+      "IS": 27,
+      "JAS": 7,
+      "JEM": 1,
+      "Janjaweed": 49
+    },
+    "links": [
+      {
+        "source": "CSNPD",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12140,
+          12273,
+          12279,
+          12296,
+          12341
+        ]
+      },
+      {
+        "source": "FARF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          11992,
+          12042,
+          12102,
+          12120,
+          12131,
+          12300,
+          12418
+        ]
+      },
+      {
+        "source": "Government of Central African Republic",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          20302
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 74,
+        "reports": [
+          11905,
+          11913,
+          11914,
+          11986,
+          12062,
+          12063,
+          12072,
+          12077,
+          12098,
+          12110,
+          12134,
+          12177,
+          12198,
+          12261,
+          12268,
+          12305,
+          12326,
+          11844,
+          11847,
+          11918,
+          11973,
+          11977,
+          12023,
+          12028,
+          12030,
+          12031,
+          12058,
+          12060,
+          12078,
+          12083,
+          12138,
+          12145,
+          12157,
+          12163,
+          12171,
+          12178,
+          12182,
+          12186,
+          12206,
+          12222,
+          12241,
+          12271,
+          12288,
+          12315,
+          12316,
+          12340,
+          12348,
+          12349,
+          12350,
+          12379,
+          12402,
+          11898,
+          12130,
+          12162,
+          12174,
+          12187,
+          12231,
+          12255,
+          12266,
+          12267,
+          12270,
+          12336,
+          12318,
+          12047,
+          12053,
+          12085,
+          12133,
+          12185,
+          212319,
+          231035,
+          231138,
+          414435,
+          427623,
+          432640
+        ]
+      },
+      {
+        "source": "Government of Sudan",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          7095,
+          8091,
+          8267
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 27,
+        "reports": [
+          194237,
+          194251,
+          196466,
+          196468,
+          196484,
+          196607,
+          206378,
+          207458,
+          207703,
+          212000,
+          212323,
+          213016,
+          218878,
+          240967,
+          279552,
+          286927,
+          294417,
+          307444,
+          307813,
+          319152,
+          321732,
+          322739,
+          327480,
+          371006,
+          371007,
+          391764,
+          416252
+        ]
+      },
+      {
+        "source": "JAS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          144082,
+          193294,
+          260102,
+          322996,
+          348615,
+          502212,
+          502382
+        ]
+      },
+      {
+        "source": "JEM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          8303
+        ]
+      },
+      {
+        "source": "Janjaweed",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 49,
+        "reports": [
+          6814,
+          6929,
+          6935,
+          7114,
+          7590,
+          7650,
+          7802,
+          7945,
+          6834,
+          6916,
+          6931,
+          6957,
+          7580,
+          7585,
+          7620,
+          7623,
+          7648,
+          7694,
+          7696,
+          7709,
+          7739,
+          7746,
+          7747,
+          7815,
+          7900,
+          7938,
+          7971,
+          7983,
+          8077,
+          8083,
+          8095,
+          8104,
+          8249,
+          8250,
+          8252,
+          8260,
+          8297,
+          8398,
+          8402,
+          8438,
+          8464,
+          8573,
+          8615,
+          8699,
+          8930,
+          8931,
+          8958,
+          9084,
+          9168
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 1069,
+    "dataBasedName": "UFR",
+    "eventReportIds": [
+      11988,
+      12061,
+      12132,
+      12135,
+      12265,
+      12330,
+      12332,
+      12344,
+      277482
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 9
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "UFR",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          11988,
+          12061,
+          12132,
+          12135,
+          12265,
+          12330,
+          12332,
+          12344,
+          277482
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 7255,
+    "dataBasedName": "FACT",
+    "eventReportIds": [
+      395714,
+      395733,
+      395957
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 3
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "FACT",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          395714,
+          395733,
+          395957
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 91249,
+    "dataBasedName": "Janjaweed",
+    "eventReportIds": [
+      6814,
+      6929,
+      6935,
+      7114,
+      7590,
+      7650,
+      7802,
+      7945,
+      6834,
+      6916,
+      6931,
+      6957,
+      7580,
+      7585,
+      7620,
+      7623,
+      7648,
+      7694,
+      7696,
+      7709,
+      7739,
+      7746,
+      7747,
+      7815,
+      7900,
+      7938,
+      7971,
+      7983,
+      8077,
+      8083,
+      8095,
+      8104,
+      8249,
+      8250,
+      8252,
+      8260,
+      8297,
+      8398,
+      8402,
+      8438,
+      8464,
+      8573,
+      8615,
+      8699,
+      8930,
+      8931,
+      8958,
+      9084,
+      9168
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 49
+    },
+    "links": [
+      {
+        "source": "Janjaweed",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 49,
+        "reports": [
+          6814,
+          6929,
+          6935,
+          7114,
+          7590,
+          7650,
+          7802,
+          7945,
+          6834,
+          6916,
+          6931,
+          6957,
+          7580,
+          7585,
+          7620,
+          7623,
+          7648,
+          7694,
+          7696,
+          7709,
+          7739,
+          7746,
+          7747,
+          7815,
+          7900,
+          7938,
+          7971,
+          7983,
+          8077,
+          8083,
+          8095,
+          8104,
+          8249,
+          8250,
+          8252,
+          8260,
+          8297,
+          8398,
+          8402,
+          8438,
+          8464,
+          8573,
+          8615,
+          8699,
+          8930,
+          8931,
+          8958,
+          9084,
+          9168
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 23432,
+    "dataBasedName": "AN",
+    "eventReportIds": [
+      11848,
+      12099,
+      12124,
+      12128,
+      12152,
+      12153,
+      12190,
+      12217,
+      12281,
+      12320,
+      12405,
+      107729
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 12
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "AN",
+        "linkType": 1,
+        "count": 12,
+        "reports": [
+          11848,
+          12099,
+          12124,
+          12128,
+          12152,
+          12153,
+          12190,
+          12217,
+          12281,
+          12320,
+          12405,
+          107729
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 63046,
+    "dataBasedName": "Toubou",
+    "eventReportIds": [
+      252402,
+      252405,
+      252455,
+      244681,
+      249601
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Zaghawa": 5
+    },
+    "links": [
+      {
+        "source": "Toubou",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          252402,
+          252405,
+          252455,
+          244681,
+          249601
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 469,
+    "dataBasedName": "SLM/A",
+    "eventReportIds": [
+      7011
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Sudan": 1
+    },
+    "links": [
+      {
+        "source": "Government of Sudan",
+        "target": "SLM/A",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          7011
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 84,
+    "dataBasedName": "Government of Nigeria",
+    "eventReportIds": [
+      193295
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "JAS": 1
+    },
+    "links": [
+      {
+        "source": "Government of Nigeria",
+        "target": "JAS",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          193295
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 69366,
+    "dataBasedName": "Khozam",
+    "eventReportIds": [
+      12020,
+      12319
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Oulad Rachid": 2
+    },
+    "links": [
+      {
+        "source": "Khozam",
+        "target": "Oulad Rachid",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12020,
+          12319
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 450,
+    "dataBasedName": "FNT",
+    "eventReportIds": [
+      12257,
+      12166,
+      68663
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 3
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "FNT",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12257,
+          12166,
+          68663
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 446,
+    "dataBasedName": "MDD",
+    "eventReportIds": [
+      12052,
+      12065,
+      12071,
+      12074,
+      12080,
+      12142,
+      12167,
+      12168,
+      12170,
+      12208,
+      12221,
+      12274,
+      12294,
+      12324,
+      12329,
+      12019,
+      12039,
+      12250,
+      12310
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 19
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "MDD",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          12052,
+          12065,
+          12071,
+          12074,
+          12080,
+          12142,
+          12167,
+          12168,
+          12170,
+          12208,
+          12221,
+          12274,
+          12294,
+          12324,
+          12329,
+          12019,
+          12039,
+          12250,
+          12310
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 447,
+    "dataBasedName": "CNR",
+    "eventReportIds": [
+      12148,
+      12151,
+      12154,
+      68652,
+      68653
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 5
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "CNR",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12148,
+          12151,
+          12154,
+          68652,
+          68653
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 451,
+    "dataBasedName": "FARF",
+    "eventReportIds": [
+      11992,
+      12081,
+      12042,
+      12102,
+      12120,
+      12131,
+      12220,
+      12258,
+      12300,
+      12418
+    ],
+    "eventTypeSummary": {
+      "1": 0.3,
+      "2": 0.0,
+      "3": 0.7
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 3,
+      "Civilians": 7
+    },
+    "links": [
+      {
+        "source": "FARF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          11992,
+          12042,
+          12102,
+          12120,
+          12131,
+          12300,
+          12418
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "FARF",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12081,
+          12220,
+          12258
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 454,
+    "dataBasedName": "RAFD",
+    "eventReportIds": [
+      12034,
+      12122,
+      12137,
+      12158,
+      12243,
+      12262
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 6
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "RAFD",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          12034,
+          12122,
+          12137,
+          12158,
+          12243,
+          12262
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 539,
+    "dataBasedName": "AQIM",
+    "eventReportIds": [
+      2226,
+      6492
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Algeria": 2
+    },
+    "links": [
+      {
+        "source": "Government of Algeria",
+        "target": "AQIM",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          2226,
+          6492
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 594,
+    "dataBasedName": "Darsalim",
+    "eventReportIds": [
+      12057
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Kibete": 1
+    },
+    "links": [
+      {
+        "source": "Darsalim",
+        "target": "Kibete",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          12057
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 456,
+    "dataBasedName": "UFDD",
+    "eventReportIds": [
+      11978,
+      12025,
+      12045,
+      12049,
+      12123,
+      12136,
+      12155,
+      12233,
+      12242,
+      12278,
+      12289,
+      12351
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 12
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "UFDD",
+        "linkType": 1,
+        "count": 12,
+        "reports": [
+          11978,
+          12025,
+          12045,
+          12049,
+          12123,
+          12136,
+          12155,
+          12233,
+          12242,
+          12278,
+          12289,
+          12351
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1112,
+    "dataBasedName": "FPRN",
+    "eventReportIds": [
+      12181,
+      12173
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 2
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "FPRN",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12181,
+          12173
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 449,
+    "dataBasedName": "Military faction (forces of Maldoum Bada Abbas)",
+    "eventReportIds": [
+      11908,
+      11981,
+      12317
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 3
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "Military faction (forces of Maldoum Bada Abbas)",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          11908,
+          11981,
+          12317
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 636,
+    "dataBasedName": "Tama",
+    "eventReportIds": [
+      11916,
+      11985,
+      12021,
+      12076,
+      12094,
+      12164,
+      12199,
+      12246,
+      12259
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Zaghawa": 9
+    },
+    "links": [
+      {
+        "source": "Tama",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          11916,
+          11985,
+          12021,
+          12076,
+          12094,
+          12164,
+          12199,
+          12246,
+          12259
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8247,
+    "dataBasedName": "Kagal",
+    "eventReportIds": [
+      395680
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Kibete": 1
+    },
+    "oppositions": {
+      "Arab": 1
+    },
+    "links": [
+      {
+        "source": "Kagal",
+        "target": "Kibete",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kagal",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kibete",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7616,
+    "dataBasedName": "Farmers (Chad)",
+    "eventReportIds": [
+      432637,
+      432638,
+      442056,
+      450554,
+      450555,
+      467895,
+      476192,
+      476213,
+      506774
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Herders (Chad)": 9
+    },
+    "links": [
+      {
+        "source": "Farmers (Chad)",
+        "target": "Herders (Chad)",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          432637,
+          432638,
+          442056,
+          450554,
+          450555,
+          467895,
+          476192,
+          476213,
+          506774
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7617,
+    "dataBasedName": "Herders (Chad)",
+    "eventReportIds": [
+      432637,
+      432638,
+      442056,
+      450554,
+      450555,
+      467895,
+      476192,
+      476213,
+      506774
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Farmers (Chad)": 9
+    },
+    "links": [
+      {
+        "source": "Farmers (Chad)",
+        "target": "Herders (Chad)",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          432637,
+          432638,
+          442056,
+          450554,
+          450555,
+          467895,
+          476192,
+          476213,
+          506774
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 676,
+    "dataBasedName": "Rizeigat Abbala",
+    "eventReportIds": [
+      7910
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Masalit": 1
+    },
+    "links": [
+      {
+        "source": "Masalit",
+        "target": "Rizeigat Abbala",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          7910
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1012,
+    "dataBasedName": "Arab",
+    "eventReportIds": [
+      374339,
+      395680
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Bulala": 1,
+      "Kagal": 1,
+      "Kibete": 1
+    },
+    "links": [
+      {
+        "source": "Arab",
+        "target": "Bulala",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          374339
+        ]
+      },
+      {
+        "source": "Kagal",
+        "target": "Kibete",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kagal",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      },
+      {
+        "source": "Arab",
+        "target": "Kibete",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          395680
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7465,
+    "dataBasedName": "Mouro",
+    "eventReportIds": [
+      300479,
+      307555
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Dadjo": 2
+    },
+    "links": [
+      {
+        "source": "Dadjo",
+        "target": "Mouro",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          300479,
+          307555
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 109,
+    "dataBasedName": "Government of Algeria",
+    "eventReportIds": [
+      2226,
+      6492
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AQIM": 2
+    },
+    "links": [
+      {
+        "source": "Government of Algeria",
+        "target": "AQIM",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          2226,
+          6492
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 445,
+    "dataBasedName": "MPS",
+    "eventReportIds": [
+      12139,
+      12179,
+      12212,
+      12264,
+      12276
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 5
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "MPS",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12139,
+          12179,
+          12212,
+          12264,
+          12276
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 112,
+    "dataBasedName": "Government of Sudan",
+    "eventReportIds": [
+      7011,
+      7095,
+      8091,
+      8267,
+      7575,
+      8063,
+      8194,
+      9040
+    ],
+    "eventTypeSummary": {
+      "1": 0.625,
+      "2": 0.0,
+      "3": 0.375
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 3,
+      "JEM": 4,
+      "SLM/A": 1
+    },
+    "links": [
+      {
+        "source": "Government of Sudan",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          7095,
+          8091,
+          8267
+        ]
+      },
+      {
+        "source": "Government of Sudan",
+        "target": "JEM",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          7575,
+          8063,
+          8194,
+          9040
+        ]
+      },
+      {
+        "source": "Government of Sudan",
+        "target": "SLM/A",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          7011
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 911,
+    "dataBasedName": "Oulad Rachid",
+    "eventReportIds": [
+      12020,
+      12319
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Khozam": 2
+    },
+    "links": [
+      {
+        "source": "Khozam",
+        "target": "Oulad Rachid",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12020,
+          12319
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1051,
+    "dataBasedName": "JAS",
+    "eventReportIds": [
+      144082,
+      193294,
+      193295,
+      260102,
+      322996,
+      348615,
+      502212,
+      502382
+    ],
+    "eventTypeSummary": {
+      "1": 0.125,
+      "2": 0.0,
+      "3": 0.875
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Nigeria": 1,
+      "Civilians": 7
+    },
+    "links": [
+      {
+        "source": "Government of Nigeria",
+        "target": "JAS",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          193295
+        ]
+      },
+      {
+        "source": "JAS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          144082,
+          193294,
+          260102,
+          322996,
+          348615,
+          502212,
+          502382
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 452,
+    "dataBasedName": "MDJT",
+    "eventReportIds": [
+      12022,
+      12075,
+      12084,
+      12087,
+      12105,
+      12109,
+      12126,
+      12141,
+      12144,
+      12188,
+      12219,
+      12248,
+      12277,
+      12323,
+      12333,
+      12334,
+      12338,
+      12342,
+      12399,
+      11980,
+      11989,
+      11991,
+      11995,
+      12147,
+      12150,
+      12160,
+      12183,
+      12184,
+      12201,
+      12251,
+      12260,
+      12291,
+      12339,
+      12386,
+      12417
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 35
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "MDJT",
+        "linkType": 1,
+        "count": 35,
+        "reports": [
+          12022,
+          12075,
+          12084,
+          12087,
+          12105,
+          12109,
+          12126,
+          12141,
+          12144,
+          12188,
+          12219,
+          12248,
+          12277,
+          12323,
+          12333,
+          12334,
+          12338,
+          12342,
+          12399,
+          11980,
+          11989,
+          11991,
+          11995,
+          12147,
+          12150,
+          12160,
+          12183,
+          12184,
+          12201,
+          12251,
+          12260,
+          12291,
+          12339,
+          12386,
+          12417
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 442,
+    "dataBasedName": "Islamic Legion",
+    "eventReportIds": [
+      11996,
+      12035,
+      12069,
+      12086,
+      12088,
+      12210,
+      12275,
+      12295,
+      12331,
+      12335,
+      12412
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 11
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "Islamic Legion",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          11996,
+          12035,
+          12069,
+          12086,
+          12088,
+          12210,
+          12275,
+          12295,
+          12331,
+          12335,
+          12412
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 705,
+    "dataBasedName": "Zaghawa",
+    "eventReportIds": [
+      11916,
+      11985,
+      12021,
+      12076,
+      12094,
+      12164,
+      12199,
+      12246,
+      12259,
+      236374,
+      252402,
+      252405,
+      252455,
+      244681,
+      249601
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Awlad Zeid": 1,
+      "Tama": 9,
+      "Toubou": 5
+    },
+    "links": [
+      {
+        "source": "Awlad Zeid",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          236374
+        ]
+      },
+      {
+        "source": "Tama",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          11916,
+          11985,
+          12021,
+          12076,
+          12094,
+          12164,
+          12199,
+          12246,
+          12259
+        ]
+      },
+      {
+        "source": "Toubou",
+        "target": "Zaghawa",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          252402,
+          252405,
+          252455,
+          244681,
+          249601
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8254,
+    "dataBasedName": "Bulala",
+    "eventReportIds": [
+      374339
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Arab": 1
+    },
+    "links": [
+      {
+        "source": "Arab",
+        "target": "Bulala",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          374339
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1621,
+    "dataBasedName": "Dadjo",
+    "eventReportIds": [
+      300479,
+      307555
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Mouro": 2
+    },
+    "links": [
+      {
+        "source": "Dadjo",
+        "target": "Mouro",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          300479,
+          307555
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      194237,
+      194251,
+      195185,
+      195684,
+      196059,
+      196466,
+      196468,
+      196484,
+      196607,
+      196890,
+      197658,
+      197667,
+      197668,
+      197669,
+      198296,
+      205818,
+      206378,
+      207417,
+      207418,
+      207458,
+      207703,
+      212000,
+      212008,
+      212323,
+      213016,
+      218876,
+      218878,
+      231139,
+      231170,
+      237684,
+      240967,
+      241304,
+      254091,
+      255045,
+      256480,
+      265803,
+      265804,
+      265805,
+      268933,
+      268937,
+      279552,
+      285466,
+      285468,
+      285469,
+      286927,
+      287017,
+      287839,
+      290401,
+      294302,
+      294417,
+      299607,
+      300064,
+      307444,
+      307447,
+      307813,
+      307815,
+      319152,
+      321732,
+      322739,
+      327480,
+      328338,
+      328504,
+      339051,
+      339053,
+      339067,
+      343072,
+      346818,
+      348384,
+      348385,
+      357959,
+      357967,
+      357970,
+      357975,
+      364168,
+      370541,
+      370544,
+      371006,
+      371007,
+      374337,
+      374338,
+      381587,
+      383298,
+      389918,
+      391668,
+      391745,
+      391764,
+      395677,
+      395891,
+      416252,
+      423079,
+      431597,
+      432639,
+      446962,
+      456926
+    ],
+    "eventTypeSummary": {
+      "1": 0.7127659574468085,
+      "2": 0.0,
+      "3": 0.2872340425531915
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 67,
+      "Civilians": 27
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "IS",
+        "linkType": 1,
+        "count": 67,
+        "reports": [
+          195185,
+          195684,
+          196059,
+          196890,
+          197658,
+          197667,
+          197668,
+          197669,
+          198296,
+          205818,
+          207417,
+          207418,
+          212008,
+          218876,
+          231139,
+          231170,
+          237684,
+          241304,
+          254091,
+          255045,
+          256480,
+          265803,
+          265804,
+          265805,
+          268933,
+          268937,
+          285466,
+          285468,
+          285469,
+          287017,
+          287839,
+          290401,
+          294302,
+          299607,
+          300064,
+          307447,
+          307815,
+          328338,
+          328504,
+          339051,
+          339053,
+          339067,
+          343072,
+          346818,
+          348384,
+          348385,
+          357959,
+          357967,
+          357970,
+          357975,
+          364168,
+          370541,
+          370544,
+          374337,
+          374338,
+          381587,
+          383298,
+          389918,
+          391668,
+          391745,
+          395677,
+          395891,
+          423079,
+          431597,
+          432639,
+          446962,
+          456926
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 27,
+        "reports": [
+          194237,
+          194251,
+          196466,
+          196468,
+          196484,
+          196607,
+          206378,
+          207458,
+          207703,
+          212000,
+          212323,
+          213016,
+          218878,
+          240967,
+          279552,
+          286927,
+          294417,
+          307444,
+          307813,
+          319152,
+          321732,
+          322739,
+          327480,
+          371006,
+          371007,
+          391764,
+          416252
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 448,
+    "dataBasedName": "CSNPD",
+    "eventReportIds": [
+      12280,
+      12325,
+      12026,
+      12082,
+      12140,
+      12254,
+      12273,
+      12279,
+      12296,
+      12328,
+      12341,
+      12093
+    ],
+    "eventTypeSummary": {
+      "1": 0.5833333333333334,
+      "2": 0.0,
+      "3": 0.4166666666666667
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 7,
+      "Civilians": 5
+    },
+    "links": [
+      {
+        "source": "CSNPD",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12140,
+          12273,
+          12279,
+          12296,
+          12341
+        ]
+      },
+      {
+        "source": "Government of Chad",
+        "target": "CSNPD",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          12280,
+          12325,
+          12026,
+          12082,
+          12254,
+          12328,
+          12093
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 444,
+    "dataBasedName": "MOSANAT",
+    "eventReportIds": [
+      12169,
+      12256
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Chad": 2
+    },
+    "links": [
+      {
+        "source": "Government of Chad",
+        "target": "MOSANAT",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          12169,
+          12256
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

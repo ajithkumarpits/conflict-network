@@ -1,0 +1,69 @@
+@import '../../styles/global_variables';
+
+.actor-map-popup-wrapper{
+    //width: $map-popup-width;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    @media screen and (max-width: 1240px) { 
+        width: 400px;
+    }
+    @media screen and (max-width: 899px) { 
+        width: 100%;
+    }
+
+
+    .actor-map-header{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+
+        .actor-map-header-type{
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+        }
+
+        .no-margin{
+            margin: 0 !important;
+        }
+
+        .actor-map-header-icon{
+            width: $map-pop-up-interaction;
+            height: $map-pop-up-interaction;
+            margin-right: 20px;
+        }
+    }
+    .popup-text-wrapper{
+        margin: 15px 5px;
+        .popup-text-info{
+            margin: 1px;
+        }
+    }   
+}
+
+.actor-wrapper{
+    width: 100%;
+    display: grid;
+        grid-template-columns: 1fr 8fr 1fr;
+}
+
+.actor-line{
+    margin: 0 0 0 4px!important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.actor-popup-line{
+    display: flex;
+    flex-direction: column;
+    &.assoc{
+        padding-left: 40px;
+    }
+}
+
+.conflict-loc-event {
+    margin-top: 12px;
+    padding-right: 5px;
+}

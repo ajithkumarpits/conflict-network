@@ -1,0 +1,250 @@
+[
+  {
+    "id": 3176,
+    "dataBasedName": "PCC",
+    "eventReportIds": [
+      450724,
+      478193
+    ],
+    "eventTypeSummary": {
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Bonde dos 13": 1
+    },
+    "oppositions": {
+      "Comando Vermelho": 2
+    },
+    "links": [
+      {
+        "source": "Bonde dos 13",
+        "target": "PCC",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          478193,
+          450724
+        ]
+      },
+      {
+        "source": "Bonde dos 13",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          478193,
+          450724
+        ]
+      },
+      {
+        "source": "PCC",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          478193,
+          450724
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 807,
+    "dataBasedName": "Laime",
+    "eventReportIds": [
+      107763,
+      107831,
+      115293,
+      115294,
+      115295,
+      115297,
+      115298,
+      115299,
+      115300,
+      115301
+    ],
+    "eventTypeSummary": {
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Qaqachaca": 10
+    },
+    "links": [
+      {
+        "source": "Laime",
+        "target": "Qaqachaca",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          107763,
+          107831,
+          115293,
+          115294,
+          115295,
+          115297,
+          115298,
+          115299,
+          115300,
+          115301
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7038,
+    "dataBasedName": "Bonde dos 13",
+    "eventReportIds": [
+      478193
+    ],
+    "eventTypeSummary": {
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "PCC": 1
+    },
+    "oppositions": {
+      "Comando Vermelho": 1
+    },
+    "links": [
+      {
+        "source": "Bonde dos 13",
+        "target": "PCC",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          478193
+        ]
+      },
+      {
+        "source": "Bonde dos 13",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          478193
+        ]
+      },
+      {
+        "source": "PCC",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          478193
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 806,
+    "dataBasedName": "Qaqachaca",
+    "eventReportIds": [
+      107763,
+      107831,
+      115293,
+      115294,
+      115295,
+      115297,
+      115298,
+      115299,
+      115300,
+      115301
+    ],
+    "eventTypeSummary": {
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Laime": 10
+    },
+    "links": [
+      {
+        "source": "Laime",
+        "target": "Qaqachaca",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          107763,
+          107831,
+          115293,
+          115294,
+          115295,
+          115297,
+          115298,
+          115299,
+          115300,
+          115301
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 772,
+    "dataBasedName": "Comando Vermelho",
+    "eventReportIds": [
+      450724,
+      478193
+    ],
+    "eventTypeSummary": {
+      "2": 1.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Bonde dos 13": 1,
+      "PCC": 2
+    },
+    "links": [
+      {
+        "source": "Bonde dos 13",
+        "target": "PCC",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          478193,
+          450724
+        ]
+      },
+      {
+        "source": "Bonde dos 13",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          478193,
+          450724
+        ]
+      },
+      {
+        "source": "PCC",
+        "target": "Comando Vermelho",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          478193,
+          450724
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

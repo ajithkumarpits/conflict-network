@@ -1,0 +1,4 @@
+const square_spike = (
+    "M0 5C0 2.23857 2.23857 0 5 0H12L15.2411 8.75891L24 12L15.2411 15.2411L12 24H5C2.23857 24 0 21.7614 0 19V5Z"
+)
+export default square_spike

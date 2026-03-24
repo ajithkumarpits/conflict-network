@@ -1,0 +1,60 @@
+[
+  {
+    "id": 121,
+    "dataBasedName": "Government of Israel",
+    "eventReportIds": [
+      178659
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "PIJ": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "PIJ",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          178659
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 208,
+    "dataBasedName": "PIJ",
+    "eventReportIds": [
+      178659
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Israel": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "PIJ",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          178659
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

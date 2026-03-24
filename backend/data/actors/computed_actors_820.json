@@ -1,0 +1,212 @@
+[
+  {
+    "id": 277,
+    "dataBasedName": "ASG",
+    "eventReportIds": [
+      63612,
+      250564
+    ],
+    "eventTypeSummary": {
+      "1": 0.5,
+      "3": 0.5
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Philippines": 1,
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "ASG",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          63612
+        ]
+      },
+      {
+        "source": "Government of Philippines",
+        "target": "ASG",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          250564
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 154,
+    "dataBasedName": "Government of Philippines",
+    "eventReportIds": [
+      250564
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "ASG": 1
+    },
+    "links": [
+      {
+        "source": "Government of Philippines",
+        "target": "ASG",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          250564
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 152,
+    "dataBasedName": "Government of Malaysia",
+    "eventReportIds": [
+      66824,
+      66832,
+      66953,
+      67637,
+      67638,
+      67639,
+      67641,
+      67643,
+      67646,
+      67647,
+      67648,
+      67649,
+      67651
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Sultanate of Sulu": 13
+    },
+    "links": [
+      {
+        "source": "Government of Malaysia",
+        "target": "Sultanate of Sulu",
+        "linkType": 1,
+        "count": 13,
+        "reports": [
+          66824,
+          66832,
+          66953,
+          67637,
+          67638,
+          67639,
+          67641,
+          67643,
+          67646,
+          67647,
+          67648,
+          67649,
+          67651
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 4006,
+    "dataBasedName": "Sultanate of Sulu",
+    "eventReportIds": [
+      66824,
+      66832,
+      66953,
+      67637,
+      67638,
+      67639,
+      67641,
+      67643,
+      67646,
+      67647,
+      67648,
+      67649,
+      67651
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Malaysia": 13
+    },
+    "links": [
+      {
+        "source": "Government of Malaysia",
+        "target": "Sultanate of Sulu",
+        "linkType": 1,
+        "count": 13,
+        "reports": [
+          66824,
+          66832,
+          66953,
+          67637,
+          67638,
+          67639,
+          67641,
+          67643,
+          67646,
+          67647,
+          67648,
+          67649,
+          67651
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 98589,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      63612
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "ASG": 1
+    },
+    "links": [
+      {
+        "source": "ASG",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          63612
+        ]
+      }
+    ],
+    "actorType": 5
+  }
+]

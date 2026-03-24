@@ -1,0 +1,60 @@
+[
+  {
+    "id": 61,
+    "dataBasedName": "Government of Ukraine",
+    "eventReportIds": [
+      453616
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Russia (Soviet Union)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Russia (Soviet Union)",
+        "target": "Government of Ukraine",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          453616
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 57,
+    "dataBasedName": "Government of Russia (Soviet Union)",
+    "eventReportIds": [
+      453616
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Ukraine": 1
+    },
+    "links": [
+      {
+        "source": "Government of Russia (Soviet Union)",
+        "target": "Government of Ukraine",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          453616
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

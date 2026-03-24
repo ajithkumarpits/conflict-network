@@ -1,0 +1,24 @@
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.leaflet-top,
+.leaflet-bottom {
+z-index: inherit!important;
+  }
+
+.MuiTextField-root .MuiInputAdornment-positionEnd .MuiIconButton-root {
+    display: none !important;
+}
+button {border: 0;background-color: transparent;}
+
+.introjs-tooltipReferenceLayer {
+  visibility: visible !important;
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+

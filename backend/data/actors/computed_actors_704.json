@@ -1,0 +1,220 @@
+[
+  {
+    "id": 133,
+    "dataBasedName": "Government of Uzbekistan",
+    "eventReportIds": [
+      61964,
+      61978,
+      61981,
+      61982,
+      61983,
+      61984,
+      61985,
+      61986,
+      62028,
+      62039,
+      62040,
+      62041,
+      62044,
+      62052,
+      62061,
+      62062,
+      62077,
+      62080,
+      62082,
+      62088,
+      62089,
+      62093,
+      61973,
+      61974,
+      61975,
+      61997,
+      62046,
+      62055,
+      62069,
+      62072,
+      62008,
+      62009
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IMU": 22,
+      "JIG": 10
+    },
+    "links": [
+      {
+        "source": "Government of Uzbekistan",
+        "target": "IMU",
+        "linkType": 1,
+        "count": 22,
+        "reports": [
+          61964,
+          61978,
+          61981,
+          61982,
+          61983,
+          61984,
+          61985,
+          61986,
+          62028,
+          62039,
+          62040,
+          62041,
+          62044,
+          62052,
+          62061,
+          62062,
+          62077,
+          62080,
+          62082,
+          62088,
+          62089,
+          62093
+        ]
+      },
+      {
+        "source": "Government of Uzbekistan",
+        "target": "JIG",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          61973,
+          61974,
+          61975,
+          61997,
+          62046,
+          62055,
+          62069,
+          62072,
+          62008,
+          62009
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 359,
+    "dataBasedName": "IMU",
+    "eventReportIds": [
+      61964,
+      61978,
+      61981,
+      61982,
+      61983,
+      61984,
+      61985,
+      61986,
+      62028,
+      62039,
+      62040,
+      62041,
+      62044,
+      62052,
+      62061,
+      62062,
+      62077,
+      62080,
+      62082,
+      62088,
+      62089,
+      62093
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Uzbekistan": 22
+    },
+    "links": [
+      {
+        "source": "Government of Uzbekistan",
+        "target": "IMU",
+        "linkType": 1,
+        "count": 22,
+        "reports": [
+          61964,
+          61978,
+          61981,
+          61982,
+          61983,
+          61984,
+          61985,
+          61986,
+          62028,
+          62039,
+          62040,
+          62041,
+          62044,
+          62052,
+          62061,
+          62062,
+          62077,
+          62080,
+          62082,
+          62088,
+          62089,
+          62093
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 360,
+    "dataBasedName": "JIG",
+    "eventReportIds": [
+      61973,
+      61974,
+      61975,
+      61997,
+      62046,
+      62055,
+      62069,
+      62072,
+      62008,
+      62009
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Uzbekistan": 10
+    },
+    "links": [
+      {
+        "source": "Government of Uzbekistan",
+        "target": "JIG",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          61973,
+          61974,
+          61975,
+          61997,
+          62046,
+          62055,
+          62069,
+          62072,
+          62008,
+          62009
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

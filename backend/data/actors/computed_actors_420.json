@@ -1,0 +1,76 @@
+[
+  {
+    "id": 71,
+    "dataBasedName": "Government of Gambia",
+    "eventReportIds": [
+      12565,
+      293110,
+      12567,
+      258252,
+      293117
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 5
+    },
+    "links": [
+      {
+        "source": "Government of Gambia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12565,
+          293110,
+          12567,
+          258252,
+          293117
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 96009,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      12565,
+      293110,
+      12567,
+      258252,
+      293117
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Gambia": 5
+    },
+    "links": [
+      {
+        "source": "Government of Gambia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12565,
+          293110,
+          12567,
+          258252,
+          293117
+        ]
+      }
+    ],
+    "actorType": 5
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": 96249,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      21064,
+      21438,
+      20353,
+      20847,
+      21472,
+      21669,
+      22126,
+      22151,
+      22318,
+      22600,
+      20884
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "UNITA": 11
+    },
+    "links": [
+      {
+        "source": "UNITA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          21064,
+          21438,
+          20353,
+          20847,
+          21472,
+          21669,
+          22126,
+          22151,
+          22318,
+          22600,
+          20884
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 567,
+    "dataBasedName": "UNITA",
+    "eventReportIds": [
+      21064,
+      21438,
+      20353,
+      20692,
+      20795,
+      20847,
+      20851,
+      21210,
+      21324,
+      21472,
+      21669,
+      22126,
+      22151,
+      22171,
+      22318,
+      22552,
+      22600,
+      435954,
+      20884
+    ],
+    "eventTypeSummary": {
+      "1": 0.42105263157894735,
+      "3": 0.5789473684210527
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Angola": 8,
+      "Civilians": 11
+    },
+    "links": [
+      {
+        "source": "Government of Angola",
+        "target": "UNITA",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          20692,
+          20795,
+          20851,
+          21210,
+          21324,
+          22171,
+          22552,
+          435954
+        ]
+      },
+      {
+        "source": "UNITA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 11,
+        "reports": [
+          21064,
+          21438,
+          20353,
+          20847,
+          21472,
+          21669,
+          22126,
+          22151,
+          22318,
+          22600,
+          20884
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 99,
+    "dataBasedName": "Government of Angola",
+    "eventReportIds": [
+      20692,
+      20795,
+      20851,
+      21210,
+      21324,
+      22171,
+      22552,
+      435954
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "UNITA": 8
+    },
+    "links": [
+      {
+        "source": "Government of Angola",
+        "target": "UNITA",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          20692,
+          20795,
+          20851,
+          21210,
+          21324,
+          22171,
+          22552,
+          435954
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

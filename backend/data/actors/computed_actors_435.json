@@ -1,0 +1,320 @@
+[
+  {
+    "id": 74,
+    "dataBasedName": "Government of Mauritania",
+    "eventReportIds": [
+      32998,
+      39198,
+      39347,
+      39361,
+      40338,
+      40339,
+      40345,
+      40347,
+      40348,
+      40360,
+      40361,
+      40368,
+      40369,
+      40373,
+      40374,
+      40375,
+      40384,
+      40354,
+      34506,
+      40707,
+      40708,
+      41172,
+      41173,
+      41174,
+      41175,
+      41183,
+      342992,
+      467760,
+      467763
+    ],
+    "eventTypeSummary": {
+      "1": 0.3103448275862069,
+      "2": 0.0,
+      "3": 0.6896551724137931
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AQIM": 9,
+      "Civilians": 20
+    },
+    "links": [
+      {
+        "source": "Government of Mauritania",
+        "target": "AQIM",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          40354,
+          34506,
+          40708,
+          41172,
+          41173,
+          41174,
+          41175,
+          467760,
+          467763
+        ]
+      },
+      {
+        "source": "Government of Mauritania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 20,
+        "reports": [
+          32998,
+          39198,
+          39347,
+          39361,
+          40338,
+          40339,
+          40345,
+          40347,
+          40348,
+          40360,
+          40361,
+          40368,
+          40369,
+          40373,
+          40374,
+          40375,
+          40384,
+          40707,
+          41183,
+          342992
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 1018,
+    "dataBasedName": "Mauritanian",
+    "eventReportIds": [
+      40319,
+      40349,
+      40352,
+      40353,
+      40363
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Senegalese": 5
+    },
+    "links": [
+      {
+        "source": "Mauritanian",
+        "target": "Senegalese",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          40319,
+          40349,
+          40352,
+          40353,
+          40363
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 92509,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      32998,
+      39198,
+      39347,
+      39361,
+      40338,
+      40339,
+      40345,
+      40347,
+      40348,
+      40360,
+      40361,
+      40368,
+      40369,
+      40373,
+      40374,
+      40375,
+      40384,
+      24908,
+      5214,
+      40707,
+      41183,
+      342992
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AQIM": 2,
+      "Government of Mauritania": 20
+    },
+    "links": [
+      {
+        "source": "AQIM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          24908,
+          5214
+        ]
+      },
+      {
+        "source": "Government of Mauritania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 20,
+        "reports": [
+          32998,
+          39198,
+          39347,
+          39361,
+          40338,
+          40339,
+          40345,
+          40347,
+          40348,
+          40360,
+          40361,
+          40368,
+          40369,
+          40373,
+          40374,
+          40375,
+          40384,
+          40707,
+          41183,
+          342992
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 539,
+    "dataBasedName": "AQIM",
+    "eventReportIds": [
+      24908,
+      40354,
+      5214,
+      34506,
+      40708,
+      41172,
+      41173,
+      41174,
+      41175,
+      467760,
+      467763
+    ],
+    "eventTypeSummary": {
+      "1": 0.8181818181818182,
+      "2": 0.0,
+      "3": 0.18181818181818182
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Mauritania": 9,
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "AQIM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          24908,
+          5214
+        ]
+      },
+      {
+        "source": "Government of Mauritania",
+        "target": "AQIM",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          40354,
+          34506,
+          40708,
+          41172,
+          41173,
+          41174,
+          41175,
+          467760,
+          467763
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1019,
+    "dataBasedName": "Senegalese",
+    "eventReportIds": [
+      40319,
+      40349,
+      40352,
+      40353,
+      40363
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Mauritanian": 5
+    },
+    "links": [
+      {
+        "source": "Mauritanian",
+        "target": "Senegalese",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          40319,
+          40349,
+          40352,
+          40353,
+          40363
+        ]
+      }
+    ],
+    "actorType": 3
+  }
+]

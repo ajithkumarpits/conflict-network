@@ -1,0 +1,430 @@
+[
+  {
+    "id": 4954849,
+    "dataBasedName": "Military Junta for the Consolidation of Democracy",
+    "eventReportIds": [
+      24829,
+      24832,
+      24833,
+      24835,
+      24837,
+      24838,
+      24839,
+      24840,
+      24841,
+      24846,
+      24847,
+      24848,
+      24849,
+      24865,
+      24867,
+      24871,
+      24872,
+      24875,
+      24892
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {
+      "Peace and Justice": 19
+    },
+    "oppositions": {
+      "Government of Guinea-Bissau": 19
+    },
+    "links": [
+      {
+        "source": "Military Junta for the Consolidation of Democracy",
+        "target": "Peace and Justice",
+        "linkType": 0,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Military Junta for the Consolidation of Democracy",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Peace and Justice",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 70,
+    "dataBasedName": "Government of Guinea-Bissau",
+    "eventReportIds": [
+      24829,
+      24832,
+      24833,
+      24835,
+      24837,
+      24838,
+      24839,
+      24840,
+      24841,
+      24846,
+      24847,
+      24848,
+      24849,
+      24865,
+      24867,
+      24871,
+      24872,
+      24875,
+      24892
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Military Junta for the Consolidation of Democracy": 19,
+      "Peace and Justice": 19
+    },
+    "links": [
+      {
+        "source": "Military Junta for the Consolidation of Democracy",
+        "target": "Peace and Justice",
+        "linkType": 0,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Military Junta for the Consolidation of Democracy",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Peace and Justice",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 73,
+    "dataBasedName": "Government of Senegal",
+    "eventReportIds": [
+      39179,
+      39071,
+      39324
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "MFDC": 3
+    },
+    "links": [
+      {
+        "source": "Government of Senegal",
+        "target": "MFDC",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          39179,
+          39071,
+          39324
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 1737917,
+    "dataBasedName": "Peace and Justice",
+    "eventReportIds": [
+      24829,
+      24832,
+      24833,
+      24835,
+      24837,
+      24838,
+      24839,
+      24840,
+      24841,
+      24846,
+      24847,
+      24848,
+      24849,
+      24865,
+      24867,
+      24871,
+      24872,
+      24875,
+      24892
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {
+      "Military Junta for the Consolidation of Democracy": 19
+    },
+    "oppositions": {
+      "Government of Guinea-Bissau": 19
+    },
+    "links": [
+      {
+        "source": "Military Junta for the Consolidation of Democracy",
+        "target": "Peace and Justice",
+        "linkType": 0,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Military Junta for the Consolidation of Democracy",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      },
+      {
+        "source": "Government of Guinea-Bissau",
+        "target": "Peace and Justice",
+        "linkType": 1,
+        "count": 19,
+        "reports": [
+          24829,
+          24832,
+          24833,
+          24835,
+          24837,
+          24838,
+          24839,
+          24840,
+          24841,
+          24846,
+          24847,
+          24848,
+          24849,
+          24865,
+          24867,
+          24871,
+          24872,
+          24875,
+          24892
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 529,
+    "dataBasedName": "MFDC",
+    "eventReportIds": [
+      39179,
+      39071,
+      39324
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Senegal": 3
+    },
+    "links": [
+      {
+        "source": "Government of Senegal",
+        "target": "MFDC",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          39179,
+          39071,
+          39324
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": 28,
+    "dataBasedName": "Government of United Kingdom",
+    "eventReportIds": [
+      66259,
+      66275,
+      66991
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "PIRA": 3
+    },
+    "links": [
+      {
+        "source": "Government of United Kingdom",
+        "target": "PIRA",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          66259,
+          66275,
+          66991
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 164,
+    "dataBasedName": "KDPI",
+    "eventReportIds": [
+      115953
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Iran": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "KDPI",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115953
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 282,
+    "dataBasedName": "PIRA",
+    "eventReportIds": [
+      66259,
+      66275,
+      66991
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of United Kingdom": 3
+    },
+    "links": [
+      {
+        "source": "Government of United Kingdom",
+        "target": "PIRA",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          66259,
+          66275,
+          66991
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 94029,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      233651
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          233651
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      233651
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          233651
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 114,
+    "dataBasedName": "Government of Iran",
+    "eventReportIds": [
+      115953
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "KDPI": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iran",
+        "target": "KDPI",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115953
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

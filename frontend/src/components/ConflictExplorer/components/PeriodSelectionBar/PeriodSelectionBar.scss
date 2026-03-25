@@ -1,0 +1,143 @@
+@import '../../styles/global_variables';
+
+
+.warning-mismatch{
+    display: flex;
+    flex-direction: row;
+    padding: 0 5px;
+    align-items: center;
+}
+
+.period-selection-wrapper{
+    //max-height: $navigation-bar-size-small;
+    display: flex ; 
+    flex-direction: column ;
+    width: 100%;    
+    box-sizing: border-box;
+    // .actor-interaction-legend{
+    //     height: 20px;
+    //     display: flex;
+    //     flex-direction: row;
+    //     justify-content: flex-end;
+    //     width: 100%;
+    //     max-width: 100%;
+    //     align-items: center;
+    //     .interaction-legend-item{
+    //         display: flex;
+    //         flex-direction: row;
+    //         align-items: center;
+    //         padding: 0 14px;
+    //     }
+    // }
+}
+.actor-interaction-legend{    
+    flex-direction: row;
+    display: inline-flex;
+    padding: 5px 10px;
+    align-items: center;
+    gap: 20px;
+    border-radius: 5px;
+    background: $color-white;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    .interaction-legend-item{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        p {
+            margin-right: 0;
+            font-size: 13px;
+            font-weight: 500;
+            color: $dark-blue-600;
+            letter-spacing: 0;
+        }
+    }
+}
+.period-selection-toolbar {
+    max-width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    .period-selection-items{
+        display: flex;
+        align-items: center;
+    }
+    .period-end-items{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 0 0 0 auto;
+        @media only screen and (max-width: 1144px) {
+            margin-left: 0;
+        }
+    }
+}
+
+
+
+.period-selector{
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+    &.date{
+        margin: 0;
+    }
+
+    .time-picker {
+        min-width: 302px;
+        width: 100%;
+        @media (max-width: 420px) {
+            min-width: 100%;
+        }
+        fieldset {
+            border-color: $light-blue-50;
+            padding: 0px 15px 0 40px;
+            legend {
+                font-size: 0.9em;
+            }
+        }
+        label {
+            color: $dark-blue-600;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 22px;
+            margin-left: 34px;
+        }
+        .MuiInputBase-root{
+            border-radius: 10px;
+            &.Mui-focused {
+                fieldset {
+                    border-color: $light-blue-50;
+                    border-width: 1px;
+                }
+            }
+            &:hover {
+                fieldset {
+                    border-color: $light-blue-50;
+                }
+            }
+        }
+        input.MuiInputBase-input {
+            padding: 14px 15px 13px 12px;
+            padding-right: 0;
+            font-size: 16px;
+            color: $dark-blue-600;
+        }
+    }
+}
+
+
+.popover-sugst-citation {   
+    .MuiStack-root { 
+        @media screen and (min-width: 900px) and (max-width: 1144px) { 
+            width: 100%!important;
+        }       
+        
+        @media screen and (max-width: 899px) { 
+            width: 100%!important;
+        }
+    }    
+}
+

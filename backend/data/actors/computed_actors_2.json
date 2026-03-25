@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1151,
+    "dataBasedName": "Jalisco Cartel New Generation",
+    "eventReportIds": [
+      450154
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Sinaloa Cartel": 1
+    },
+    "links": [
+      {
+        "source": "Jalisco Cartel New Generation",
+        "target": "Sinaloa Cartel",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          450154
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 881,
+    "dataBasedName": "AQAP",
+    "eventReportIds": [
+      321192
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Forces of the Presidential Leadership Council": 1
+    },
+    "links": [
+      {
+        "source": "AQAP",
+        "target": "Forces of the Presidential Leadership Council",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          321192
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1088,
+    "dataBasedName": "Los Zetas",
+    "eventReportIds": [
+      422178
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Gulf Cartel": 1
+    },
+    "links": [
+      {
+        "source": "Gulf Cartel",
+        "target": "Los Zetas",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          422178
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 6254,
+    "dataBasedName": "Forces of the Presidential Leadership Council",
+    "eventReportIds": [
+      321192
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AQAP": 1
+    },
+    "links": [
+      {
+        "source": "AQAP",
+        "target": "Forces of the Presidential Leadership Council",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          321192
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 88858,
+    "dataBasedName": "al-Qaida",
+    "eventReportIds": [
+      108023,
+      187676,
+      187677
+    ],
+    "eventTypeSummary": {
+      "1": 0.6666666666666666,
+      "2": 0.0,
+      "3": 0.3333333333333333
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of United States of America": 2,
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of United States of America",
+        "target": "al-Qaida",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          187676,
+          187677
+        ]
+      },
+      {
+        "source": "al-Qaida",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          108023
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 775,
+    "dataBasedName": "Sinaloa Cartel",
+    "eventReportIds": [
+      277078,
+      450154
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.5,
+      "3": 0.5
+    },
+    "eventTypes": [
+      3,
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Jalisco Cartel New Generation": 1,
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Jalisco Cartel New Generation",
+        "target": "Sinaloa Cartel",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          450154
+        ]
+      },
+      {
+        "source": "Sinaloa Cartel",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          277078
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97319,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      108023,
+      208492,
+      251608,
+      277078
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 2,
+      "Sinaloa Cartel": 1,
+      "al-Qaida": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          208492,
+          251608
+        ]
+      },
+      {
+        "source": "Sinaloa Cartel",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          277078
+        ]
+      },
+      {
+        "source": "al-Qaida",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          108023
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      208492,
+      251608
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          208492,
+          251608
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 782,
+    "dataBasedName": "Gulf Cartel",
+    "eventReportIds": [
+      422178
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Los Zetas": 1
+    },
+    "links": [
+      {
+        "source": "Gulf Cartel",
+        "target": "Los Zetas",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          422178
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 3,
+    "dataBasedName": "Government of United States of America",
+    "eventReportIds": [
+      187676,
+      187677
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "al-Qaida": 2
+    },
+    "links": [
+      {
+        "source": "Government of United States of America",
+        "target": "al-Qaida",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          187676,
+          187677
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

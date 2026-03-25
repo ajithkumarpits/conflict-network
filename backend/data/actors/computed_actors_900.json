@@ -1,0 +1,104 @@
+[
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      272643,
+      272647
+    ],
+    "eventTypeSummary": {
+      "1": 0.5,
+      "3": 0.5
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Iraq": 1,
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iraq",
+        "target": "IS",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          272647
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          272643
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 93709,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      272643
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          272643
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 116,
+    "dataBasedName": "Government of Iraq",
+    "eventReportIds": [
+      272647
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 1
+    },
+    "links": [
+      {
+        "source": "Government of Iraq",
+        "target": "IS",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          272647
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

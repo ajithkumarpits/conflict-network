@@ -1,0 +1,1347 @@
+[
+  {
+    "id": 771,
+    "dataBasedName": "AUC",
+    "eventReportIds": [
+      222739
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "FARC": 1
+    },
+    "links": [
+      {
+        "source": "AUC",
+        "target": "FARC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          222739
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 8011,
+    "dataBasedName": "Los Pipos",
+    "eventReportIds": [
+      384606,
+      384607,
+      384608,
+      395366,
+      409595,
+      409596
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Los Chone Killers ": 6,
+      "Los Lobos ": 6,
+      "Los Tiguerones": 6
+    },
+    "oppositions": {
+      "Los Choneros": 6
+    },
+    "links": [
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Lobos ",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Pipos",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Chone Killers ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Pipos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1151,
+    "dataBasedName": "Jalisco Cartel New Generation",
+    "eventReportIds": [
+      439081
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Jalisco Cartel New Generation",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          439081
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 8008,
+    "dataBasedName": "Los Tiguerones",
+    "eventReportIds": [
+      384606,
+      384607,
+      384608,
+      395366,
+      409595,
+      409596,
+      483577,
+      483588
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Los Chone Killers ": 6,
+      "Los Lobos ": 6,
+      "Los Pipos": 6
+    },
+    "oppositions": {
+      "Los Choneros": 6,
+      "Los Lobos": 2
+    },
+    "links": [
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Lobos ",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Pipos",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Chone Killers ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Pipos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          483577,
+          483588
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 20,
+    "dataBasedName": "Government of Ecuador",
+    "eventReportIds": [
+      114818,
+      114820,
+      114864,
+      114865
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Peru": 4
+    },
+    "links": [
+      {
+        "source": "Government of Ecuador",
+        "target": "Government of Peru",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          114818,
+          114820,
+          114864,
+          114865
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 21,
+    "dataBasedName": "Government of Peru",
+    "eventReportIds": [
+      114818,
+      114820,
+      114864,
+      114865
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Ecuador": 4
+    },
+    "links": [
+      {
+        "source": "Government of Ecuador",
+        "target": "Government of Peru",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          114818,
+          114820,
+          114864,
+          114865
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 8468,
+    "dataBasedName": "FARC-EMC",
+    "eventReportIds": [
+      279743
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Colombia": 1
+    },
+    "links": [
+      {
+        "source": "Government of Colombia",
+        "target": "FARC-EMC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          279743
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 8369,
+    "dataBasedName": "R7",
+    "eventReportIds": [
+      435570,
+      437865,
+      444112,
+      456435,
+      472117
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Los Lobos": 5
+    },
+    "links": [
+      {
+        "source": "Los Lobos",
+        "target": "R7",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          435570,
+          437865,
+          444112,
+          456435,
+          472117
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 7971,
+    "dataBasedName": "Los Choneros",
+    "eventReportIds": [
+      384606,
+      384607,
+      384608,
+      395366,
+      409595,
+      409596,
+      415918,
+      421626,
+      451743,
+      451834,
+      453516,
+      453919
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Los Chone Killers ": 6,
+      "Los Lobos ": 6,
+      "Los Pipos": 6,
+      "Los Tiguerones": 6,
+      "Los Lobos": 6
+    },
+    "links": [
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Lobos ",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Pipos",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Chone Killers ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Pipos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          415918,
+          421626,
+          451743,
+          451834,
+          453516,
+          453919
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97319,
+    "dataBasedName": "Los Lobos",
+    "eventReportIds": [
+      415918,
+      421626,
+      435570,
+      437865,
+      444112,
+      451743,
+      451834,
+      453516,
+      453919,
+      456435,
+      472117,
+      483577,
+      483588
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Los Choneros": 6,
+      "Los Tiguerones": 2,
+      "R7": 5
+    },
+    "links": [
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          415918,
+          421626,
+          451743,
+          451834,
+          453516,
+          453919
+        ]
+      },
+      {
+        "source": "Los Lobos",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          483577,
+          483588
+        ]
+      },
+      {
+        "source": "Los Lobos",
+        "target": "R7",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          435570,
+          437865,
+          444112,
+          456435,
+          472117
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 91179,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      439081
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Jalisco Cartel New Generation": 1
+    },
+    "links": [
+      {
+        "source": "Jalisco Cartel New Generation",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          439081
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 743,
+    "dataBasedName": "FARC",
+    "eventReportIds": [
+      222739,
+      119212
+    ],
+    "eventTypeSummary": {
+      "1": 0.5,
+      "2": 0.5,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AUC": 1,
+      "Government of Colombia": 1
+    },
+    "links": [
+      {
+        "source": "AUC",
+        "target": "FARC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          222739
+        ]
+      },
+      {
+        "source": "Government of Colombia",
+        "target": "FARC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          119212
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 8010,
+    "dataBasedName": "Los Chone Killers ",
+    "eventReportIds": [
+      384606,
+      384607,
+      384608,
+      395366,
+      409595,
+      409596
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Los Lobos ": 6,
+      "Los Pipos": 6,
+      "Los Tiguerones": 6
+    },
+    "oppositions": {
+      "Los Choneros": 6
+    },
+    "links": [
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Lobos ",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Pipos",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Chone Killers ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Pipos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 78537,
+    "dataBasedName": "Tagaeri",
+    "eventReportIds": [
+      107751
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Huaorani": 1
+    },
+    "links": [
+      {
+        "source": "Huaorani",
+        "target": "Tagaeri",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          107751
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8009,
+    "dataBasedName": "Los Lobos ",
+    "eventReportIds": [
+      384606,
+      384607,
+      384608,
+      395366,
+      409595,
+      409596
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Los Chone Killers ": 6,
+      "Los Pipos": 6,
+      "Los Tiguerones": 6
+    },
+    "oppositions": {
+      "Los Choneros": 6
+    },
+    "links": [
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Lobos ",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Chone Killers ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Pipos",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Lobos ",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Pipos",
+        "target": "Los Tiguerones",
+        "linkType": 0,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Chone Killers ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Lobos ",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Pipos",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      },
+      {
+        "source": "Los Choneros",
+        "target": "Los Tiguerones",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          384606,
+          384607,
+          384608,
+          395366,
+          409595,
+          409596
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 17,
+    "dataBasedName": "Government of Colombia",
+    "eventReportIds": [
+      119212,
+      279743
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "FARC": 1,
+      "FARC-EMC": 1
+    },
+    "links": [
+      {
+        "source": "Government of Colombia",
+        "target": "FARC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          119212
+        ]
+      },
+      {
+        "source": "Government of Colombia",
+        "target": "FARC-EMC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          279743
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 773,
+    "dataBasedName": "Huaorani",
+    "eventReportIds": [
+      107751
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Tagaeri": 1
+    },
+    "links": [
+      {
+        "source": "Huaorani",
+        "target": "Tagaeri",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          107751
+        ]
+      }
+    ],
+    "actorType": 3
+  }
+]

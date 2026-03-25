@@ -1,0 +1,76 @@
+[
+  {
+    "id": 104,
+    "dataBasedName": "Government of Lesotho",
+    "eventReportIds": [
+      12736,
+      12897,
+      12898,
+      12904,
+      310756
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Military faction (Lesotho)": 5
+    },
+    "links": [
+      {
+        "source": "Government of Lesotho",
+        "target": "Military faction (Lesotho)",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12736,
+          12897,
+          12898,
+          12904,
+          310756
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 550,
+    "dataBasedName": "Military faction (Lesotho)",
+    "eventReportIds": [
+      12736,
+      12897,
+      12898,
+      12904,
+      310756
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Lesotho": 5
+    },
+    "links": [
+      {
+        "source": "Government of Lesotho",
+        "target": "Military faction (Lesotho)",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          12736,
+          12897,
+          12898,
+          12904,
+          310756
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

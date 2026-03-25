@@ -1,0 +1,4 @@
+const diamond_multistar = (
+    "M0 12L12 24L14.9849 19.2063L20.4853 20.4853L19.2063 14.9849L24 12L19.2063 9.01508L20.4853 3.51472L14.9849 4.79375L12 0L0 12Z"
+)
+export default diamond_multistar

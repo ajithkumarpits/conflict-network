@@ -1,0 +1,96 @@
+[
+  {
+    "id": 357,
+    "dataBasedName": "UCK",
+    "eventReportIds": [
+      202182,
+      202460,
+      202461,
+      202462,
+      202463,
+      202464,
+      202465,
+      202470,
+      202570,
+      202690
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Serbia (Yugoslavia)": 10
+    },
+    "links": [
+      {
+        "source": "Government of Serbia (Yugoslavia)",
+        "target": "UCK",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          202182,
+          202460,
+          202461,
+          202462,
+          202463,
+          202464,
+          202465,
+          202470,
+          202570,
+          202690
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 49,
+    "dataBasedName": "Government of Serbia (Yugoslavia)",
+    "eventReportIds": [
+      202182,
+      202460,
+      202461,
+      202462,
+      202463,
+      202464,
+      202465,
+      202470,
+      202570,
+      202690
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "UCK": 10
+    },
+    "links": [
+      {
+        "source": "Government of Serbia (Yugoslavia)",
+        "target": "UCK",
+        "linkType": 1,
+        "count": 10,
+        "reports": [
+          202182,
+          202460,
+          202461,
+          202462,
+          202463,
+          202464,
+          202465,
+          202470,
+          202570,
+          202690
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

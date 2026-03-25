@@ -1,0 +1,60 @@
+[
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      364836
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          364836
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97299,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      364836
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "IS": 1
+    },
+    "links": [
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          364836
+        ]
+      }
+    ],
+    "actorType": 5
+  }
+]

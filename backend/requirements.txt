@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+anyio
+openpyxl
+geopandas
+shapely
+pyogrio
+redis

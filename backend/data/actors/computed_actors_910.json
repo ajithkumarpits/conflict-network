@@ -1,0 +1,1250 @@
+[
+  {
+    "id": 155,
+    "dataBasedName": "Government of Indonesia",
+    "eventReportIds": [
+      141876,
+      141243
+    ],
+    "eventTypeSummary": {
+      "1": 0.5,
+      "2": 0.0,
+      "3": 0.5
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1,
+      "OPM": 1
+    },
+    "links": [
+      {
+        "source": "Government of Indonesia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          141243
+        ]
+      },
+      {
+        "source": "Government of Indonesia",
+        "target": "OPM",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          141876
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 8433,
+    "dataBasedName": "Pasal",
+    "eventReportIds": [
+      62173,
+      447400
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Yukap": 2
+    },
+    "links": [
+      {
+        "source": "Pasal",
+        "target": "Yukap",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          62173,
+          447400
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 99259,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      48373,
+      62308,
+      71699,
+      71701,
+      83836,
+      83840,
+      84014,
+      84015,
+      84016,
+      84017,
+      100252,
+      100254,
+      45872,
+      45873,
+      45901,
+      45904,
+      45962,
+      45969,
+      45979,
+      45980,
+      46034,
+      62309,
+      141243,
+      84028,
+      447253,
+      453252,
+      485735
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Indonesia": 1,
+      "Government of Papua New Guinea": 26
+    },
+    "links": [
+      {
+        "source": "Government of Indonesia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          141243
+        ]
+      },
+      {
+        "source": "Government of Papua New Guinea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 26,
+        "reports": [
+          48373,
+          62308,
+          71699,
+          71701,
+          83836,
+          83840,
+          84014,
+          84015,
+          84016,
+          84017,
+          100252,
+          100254,
+          45872,
+          45873,
+          45901,
+          45904,
+          45962,
+          45969,
+          45979,
+          45980,
+          46034,
+          62309,
+          84028,
+          447253,
+          453252,
+          485735
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 8021,
+    "dataBasedName": "Agarabi",
+    "eventReportIds": [
+      391720,
+      391732,
+      391736,
+      426384
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Tapo": 4
+    },
+    "links": [
+      {
+        "source": "Agarabi",
+        "target": "Tapo",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          391720,
+          391732,
+          391736,
+          426384
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 833,
+    "dataBasedName": "Wagia subclan of Takima",
+    "eventReportIds": [
+      106833
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Wayai subclan of Takima": 1
+    },
+    "links": [
+      {
+        "source": "Wagia subclan of Takima",
+        "target": "Wayai subclan of Takima",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          106833
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7632,
+    "dataBasedName": "Oi Kuru",
+    "eventReportIds": [
+      291334,
+      291335,
+      331913
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Libe Koi": 3
+    },
+    "links": [
+      {
+        "source": "Oi Kuru",
+        "target": "Libe Koi",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          291334,
+          291335,
+          331913
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 3229,
+    "dataBasedName": "Kambrip",
+    "eventReportIds": [
+      29568,
+      29569,
+      29572,
+      29575
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Akul": 4
+    },
+    "links": [
+      {
+        "source": "Akul",
+        "target": "Kambrip",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          29568,
+          29569,
+          29572,
+          29575
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 289,
+    "dataBasedName": "BRA",
+    "eventReportIds": [
+      62098,
+      62099,
+      62100,
+      62101,
+      62102,
+      62103,
+      62104,
+      62105,
+      62106,
+      62107,
+      62108,
+      62176,
+      62177,
+      62179,
+      62180,
+      62181,
+      62182,
+      62185,
+      62186,
+      62187,
+      62188,
+      62189,
+      71700,
+      83845,
+      84018,
+      84021,
+      84022,
+      45914,
+      62109,
+      62110,
+      62111,
+      62112,
+      62113,
+      62114,
+      62115,
+      62116,
+      62117,
+      62118,
+      62119,
+      62120,
+      62121,
+      62122,
+      62123,
+      62124,
+      62126,
+      62127,
+      62128,
+      62129,
+      62130,
+      62131,
+      62132,
+      62133,
+      62134,
+      62135,
+      62136,
+      62137,
+      62138,
+      62139,
+      62141,
+      62143,
+      62144,
+      62145,
+      62146,
+      62147,
+      62148,
+      62149,
+      62150,
+      62151,
+      62152,
+      62153,
+      62154,
+      62155,
+      83844,
+      62142,
+      62157,
+      62158,
+      62160
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Papua New Guinea": 77
+    },
+    "links": [
+      {
+        "source": "Government of Papua New Guinea",
+        "target": "BRA",
+        "linkType": 1,
+        "count": 77,
+        "reports": [
+          62098,
+          62099,
+          62100,
+          62101,
+          62102,
+          62103,
+          62104,
+          62105,
+          62106,
+          62107,
+          62108,
+          62176,
+          62177,
+          62179,
+          62180,
+          62181,
+          62182,
+          62185,
+          62186,
+          62187,
+          62188,
+          62189,
+          71700,
+          83845,
+          84018,
+          84021,
+          84022,
+          45914,
+          62109,
+          62110,
+          62111,
+          62112,
+          62113,
+          62114,
+          62115,
+          62116,
+          62117,
+          62118,
+          62119,
+          62120,
+          62121,
+          62122,
+          62123,
+          62124,
+          62126,
+          62127,
+          62128,
+          62129,
+          62130,
+          62131,
+          62132,
+          62133,
+          62134,
+          62135,
+          62136,
+          62137,
+          62138,
+          62139,
+          62141,
+          62143,
+          62144,
+          62145,
+          62146,
+          62147,
+          62148,
+          62149,
+          62150,
+          62151,
+          62152,
+          62153,
+          62154,
+          62155,
+          83844,
+          62142,
+          62157,
+          62158,
+          62160
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 157,
+    "dataBasedName": "Government of Papua New Guinea",
+    "eventReportIds": [
+      48373,
+      62098,
+      62099,
+      62100,
+      62101,
+      62102,
+      62103,
+      62104,
+      62105,
+      62106,
+      62107,
+      62108,
+      62176,
+      62177,
+      62179,
+      62180,
+      62181,
+      62182,
+      62185,
+      62186,
+      62187,
+      62188,
+      62189,
+      62308,
+      71699,
+      71700,
+      71701,
+      83836,
+      83840,
+      83845,
+      84014,
+      84015,
+      84016,
+      84017,
+      84018,
+      84021,
+      84022,
+      100252,
+      100254,
+      45872,
+      45873,
+      45901,
+      45904,
+      45914,
+      45962,
+      45969,
+      45979,
+      45980,
+      46034,
+      62109,
+      62110,
+      62111,
+      62112,
+      62113,
+      62114,
+      62115,
+      62116,
+      62117,
+      62118,
+      62119,
+      62120,
+      62121,
+      62122,
+      62123,
+      62124,
+      62126,
+      62127,
+      62128,
+      62129,
+      62130,
+      62131,
+      62132,
+      62133,
+      62134,
+      62135,
+      62136,
+      62137,
+      62138,
+      62139,
+      62141,
+      62143,
+      62144,
+      62145,
+      62146,
+      62147,
+      62148,
+      62149,
+      62150,
+      62151,
+      62152,
+      62153,
+      62154,
+      62155,
+      62309,
+      83844,
+      62142,
+      62157,
+      62158,
+      62160,
+      84028,
+      447253,
+      453252,
+      485735
+    ],
+    "eventTypeSummary": {
+      "1": 0.7475728155339806,
+      "2": 0.0,
+      "3": 0.2524271844660194
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "BRA": 77,
+      "Civilians": 26
+    },
+    "links": [
+      {
+        "source": "Government of Papua New Guinea",
+        "target": "BRA",
+        "linkType": 1,
+        "count": 77,
+        "reports": [
+          62098,
+          62099,
+          62100,
+          62101,
+          62102,
+          62103,
+          62104,
+          62105,
+          62106,
+          62107,
+          62108,
+          62176,
+          62177,
+          62179,
+          62180,
+          62181,
+          62182,
+          62185,
+          62186,
+          62187,
+          62188,
+          62189,
+          71700,
+          83845,
+          84018,
+          84021,
+          84022,
+          45914,
+          62109,
+          62110,
+          62111,
+          62112,
+          62113,
+          62114,
+          62115,
+          62116,
+          62117,
+          62118,
+          62119,
+          62120,
+          62121,
+          62122,
+          62123,
+          62124,
+          62126,
+          62127,
+          62128,
+          62129,
+          62130,
+          62131,
+          62132,
+          62133,
+          62134,
+          62135,
+          62136,
+          62137,
+          62138,
+          62139,
+          62141,
+          62143,
+          62144,
+          62145,
+          62146,
+          62147,
+          62148,
+          62149,
+          62150,
+          62151,
+          62152,
+          62153,
+          62154,
+          62155,
+          83844,
+          62142,
+          62157,
+          62158,
+          62160
+        ]
+      },
+      {
+        "source": "Government of Papua New Guinea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 26,
+        "reports": [
+          48373,
+          62308,
+          71699,
+          71701,
+          83836,
+          83840,
+          84014,
+          84015,
+          84016,
+          84017,
+          100252,
+          100254,
+          45872,
+          45873,
+          45901,
+          45904,
+          45962,
+          45969,
+          45979,
+          45980,
+          46034,
+          62309,
+          84028,
+          447253,
+          453252,
+          485735
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 4468,
+    "dataBasedName": "Tonakau",
+    "eventReportIds": [
+      100286,
+      100287,
+      100698
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Akibu": 3
+    },
+    "links": [
+      {
+        "source": "Akibu",
+        "target": "Tonakau",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          100286,
+          100287,
+          100698
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 835,
+    "dataBasedName": "Wogia-Tunjup",
+    "eventReportIds": [
+      106796,
+      106821,
+      106823,
+      106828,
+      106829,
+      106854,
+      106856,
+      106857
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Unjamap": 8
+    },
+    "links": [
+      {
+        "source": "Unjamap",
+        "target": "Wogia-Tunjup",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          106796,
+          106821,
+          106823,
+          106828,
+          106829,
+          106854,
+          106856,
+          106857
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 3228,
+    "dataBasedName": "Akul",
+    "eventReportIds": [
+      29568,
+      29569,
+      29572,
+      29575
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Kambrip": 4
+    },
+    "links": [
+      {
+        "source": "Akul",
+        "target": "Kambrip",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          29568,
+          29569,
+          29572,
+          29575
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8020,
+    "dataBasedName": "Tapo",
+    "eventReportIds": [
+      391720,
+      391732,
+      391736,
+      426384
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Agarabi": 4
+    },
+    "links": [
+      {
+        "source": "Agarabi",
+        "target": "Tapo",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          391720,
+          391732,
+          391736,
+          426384
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8364,
+    "dataBasedName": "Aiyala",
+    "eventReportIds": [
+      436951,
+      436954,
+      444462,
+      444472,
+      462136,
+      468018
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Nomali": 6
+    },
+    "links": [
+      {
+        "source": "Aiyala",
+        "target": "Nomali",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          436951,
+          436954,
+          444462,
+          444472,
+          462136,
+          468018
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8363,
+    "dataBasedName": "Nomali",
+    "eventReportIds": [
+      436951,
+      436954,
+      444462,
+      444472,
+      462136,
+      468018
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Aiyala": 6
+    },
+    "links": [
+      {
+        "source": "Aiyala",
+        "target": "Nomali",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          436951,
+          436954,
+          444462,
+          444472,
+          462136,
+          468018
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8434,
+    "dataBasedName": "Yukap",
+    "eventReportIds": [
+      62173,
+      447400
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Pasal": 2
+    },
+    "links": [
+      {
+        "source": "Pasal",
+        "target": "Yukap",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          62173,
+          447400
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 4467,
+    "dataBasedName": "Akibu",
+    "eventReportIds": [
+      100286,
+      100287,
+      100698
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Tonakau": 3
+    },
+    "links": [
+      {
+        "source": "Akibu",
+        "target": "Tonakau",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          100286,
+          100287,
+          100698
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 834,
+    "dataBasedName": "Wayai subclan of Takima",
+    "eventReportIds": [
+      106833
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Wagia subclan of Takima": 1
+    },
+    "links": [
+      {
+        "source": "Wagia subclan of Takima",
+        "target": "Wayai subclan of Takima",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          106833
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 836,
+    "dataBasedName": "Unjamap",
+    "eventReportIds": [
+      106796,
+      106821,
+      106823,
+      106828,
+      106829,
+      106854,
+      106856,
+      106857
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Wogia-Tunjup": 8
+    },
+    "links": [
+      {
+        "source": "Unjamap",
+        "target": "Wogia-Tunjup",
+        "linkType": 1,
+        "count": 8,
+        "reports": [
+          106796,
+          106821,
+          106823,
+          106828,
+          106829,
+          106854,
+          106856,
+          106857
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 7633,
+    "dataBasedName": "Libe Koi",
+    "eventReportIds": [
+      291334,
+      291335,
+      331913
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Oi Kuru": 3
+    },
+    "links": [
+      {
+        "source": "Oi Kuru",
+        "target": "Libe Koi",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          291334,
+          291335,
+          331913
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 266,
+    "dataBasedName": "OPM",
+    "eventReportIds": [
+      141876
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Indonesia": 1
+    },
+    "links": [
+      {
+        "source": "Government of Indonesia",
+        "target": "OPM",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          141876
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 8492,
+    "dataBasedName": "Kulumata",
+    "eventReportIds": [
+      453159,
+      462138
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Kuboma": 2
+    },
+    "links": [
+      {
+        "source": "Kuboma",
+        "target": "Kulumata",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          453159,
+          462138
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 8493,
+    "dataBasedName": "Kuboma",
+    "eventReportIds": [
+      453159,
+      462138
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Kulumata": 2
+    },
+    "links": [
+      {
+        "source": "Kuboma",
+        "target": "Kulumata",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          453159,
+          462138
+        ]
+      }
+    ],
+    "actorType": 3
+  }
+]

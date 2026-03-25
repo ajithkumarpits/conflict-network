@@ -1,0 +1,795 @@
+[
+  {
+    "id": 1072,
+    "dataBasedName": "Torma Manian",
+    "eventReportIds": [
+      12778,
+      349062,
+      375342
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Torma": 3
+    },
+    "links": [
+      {
+        "source": "Torma",
+        "target": "Torma Manian",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12778,
+          349062,
+          375342
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1139,
+    "dataBasedName": "Malink\u00e9",
+    "eventReportIds": [
+      30459,
+      359528,
+      393367
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Konianke": 1
+    },
+    "oppositions": {
+      "Kpelle": 3
+    },
+    "links": [
+      {
+        "source": "Konianke",
+        "target": "Malink\u00e9",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          359528,
+          30459,
+          393367
+        ]
+      },
+      {
+        "source": "Kpelle",
+        "target": "Konianke",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          359528,
+          30459,
+          393367
+        ]
+      },
+      {
+        "source": "Kpelle",
+        "target": "Malink\u00e9",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          359528,
+          30459,
+          393367
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1071,
+    "dataBasedName": "Torma",
+    "eventReportIds": [
+      12778,
+      349062,
+      375342
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Torma Manian": 3
+    },
+    "links": [
+      {
+        "source": "Torma",
+        "target": "Torma Manian",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          12778,
+          349062,
+          375342
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 696,
+    "dataBasedName": "ULIMO - K",
+    "eventReportIds": [
+      44905
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "ULIMO - K",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          44905
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 77,
+    "dataBasedName": "Government of Guinea",
+    "eventReportIds": [
+      11925,
+      12595,
+      12661,
+      12673,
+      12675,
+      12676,
+      12677,
+      12682,
+      12683,
+      12702,
+      12704,
+      12706,
+      12713,
+      12724,
+      12742,
+      12748,
+      12779,
+      12782,
+      12821,
+      12822,
+      11856,
+      11999,
+      12586,
+      12820,
+      11857,
+      11895,
+      11923,
+      12000,
+      12001,
+      12571,
+      12591,
+      12665,
+      12678,
+      12691,
+      12698,
+      12705,
+      12709,
+      12710,
+      12712,
+      12714,
+      12715,
+      12739,
+      12749,
+      12756,
+      12770,
+      12783,
+      12784,
+      12786,
+      12787,
+      12826,
+      12837,
+      12840,
+      12674,
+      12717,
+      12772,
+      12788,
+      30254,
+      30262,
+      30574,
+      30663,
+      210087,
+      319259
+    ],
+    "eventTypeSummary": {
+      "1": 0.3870967741935484,
+      "2": 0.0,
+      "3": 0.6129032258064516
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 38,
+      "RFDG": 24
+    },
+    "links": [
+      {
+        "source": "Government of Guinea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 38,
+        "reports": [
+          11857,
+          11895,
+          11923,
+          12000,
+          12001,
+          12571,
+          12591,
+          12665,
+          12678,
+          12691,
+          12698,
+          12705,
+          12709,
+          12710,
+          12712,
+          12714,
+          12715,
+          12739,
+          12749,
+          12756,
+          12770,
+          12783,
+          12784,
+          12786,
+          12787,
+          12826,
+          12837,
+          12840,
+          12674,
+          12717,
+          12772,
+          12788,
+          30254,
+          30262,
+          30574,
+          30663,
+          210087,
+          319259
+        ]
+      },
+      {
+        "source": "Government of Guinea",
+        "target": "RFDG",
+        "linkType": 1,
+        "count": 24,
+        "reports": [
+          11925,
+          12595,
+          12661,
+          12673,
+          12675,
+          12676,
+          12677,
+          12682,
+          12683,
+          12702,
+          12704,
+          12706,
+          12713,
+          12724,
+          12742,
+          12748,
+          12779,
+          12782,
+          12821,
+          12822,
+          11856,
+          11999,
+          12586,
+          12820
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 532,
+    "dataBasedName": "RUF",
+    "eventReportIds": [
+      33076,
+      33726,
+      34390,
+      37957,
+      37993,
+      38097,
+      38137,
+      38163,
+      38261
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 9
+    },
+    "links": [
+      {
+        "source": "RUF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          33076,
+          33726,
+          34390,
+          37957,
+          37993,
+          38097,
+          38137,
+          38163,
+          38261
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 92349,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      44892,
+      44905,
+      33076,
+      33726,
+      34390,
+      37759,
+      37957,
+      37993,
+      38097,
+      38137,
+      38163,
+      38261,
+      11857,
+      11895,
+      11923,
+      12000,
+      12001,
+      12571,
+      12591,
+      12665,
+      12678,
+      12691,
+      12698,
+      12705,
+      12709,
+      12710,
+      12712,
+      12714,
+      12715,
+      12739,
+      12749,
+      12756,
+      12770,
+      12783,
+      12784,
+      12786,
+      12787,
+      12826,
+      12837,
+      12840,
+      12674,
+      12717,
+      12772,
+      12788,
+      30254,
+      30262,
+      30574,
+      30663,
+      210087,
+      319259
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AFRC": 1,
+      "Government of Guinea": 38,
+      "LDF": 1,
+      "RUF": 9,
+      "ULIMO - K": 1
+    },
+    "links": [
+      {
+        "source": "AFRC",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          37759
+        ]
+      },
+      {
+        "source": "Government of Guinea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 38,
+        "reports": [
+          11857,
+          11895,
+          11923,
+          12000,
+          12001,
+          12571,
+          12591,
+          12665,
+          12678,
+          12691,
+          12698,
+          12705,
+          12709,
+          12710,
+          12712,
+          12714,
+          12715,
+          12739,
+          12749,
+          12756,
+          12770,
+          12783,
+          12784,
+          12786,
+          12787,
+          12826,
+          12837,
+          12840,
+          12674,
+          12717,
+          12772,
+          12788,
+          30254,
+          30262,
+          30574,
+          30663,
+          210087,
+          319259
+        ]
+      },
+      {
+        "source": "LDF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          44892
+        ]
+      },
+      {
+        "source": "RUF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          33076,
+          33726,
+          34390,
+          37957,
+          37993,
+          38097,
+          38137,
+          38163,
+          38261
+        ]
+      },
+      {
+        "source": "ULIMO - K",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          44905
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 1116,
+    "dataBasedName": "LDF",
+    "eventReportIds": [
+      44892
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "LDF",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          44892
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 533,
+    "dataBasedName": "AFRC",
+    "eventReportIds": [
+      37759
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "AFRC",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          37759
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 1141,
+    "dataBasedName": "Kpelle",
+    "eventReportIds": [
+      30459,
+      71104,
+      71105,
+      71107,
+      359528,
+      393367
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Konianke": 4,
+      "Malink\u00e9": 3
+    },
+    "links": [
+      {
+        "source": "Konianke",
+        "target": "Kpelle",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          71104,
+          71105,
+          71107,
+          359528
+        ]
+      },
+      {
+        "source": "Konianke",
+        "target": "Malink\u00e9",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          359528,
+          30459,
+          393367
+        ]
+      },
+      {
+        "source": "Kpelle",
+        "target": "Malink\u00e9",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          359528,
+          30459,
+          393367
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1713,
+    "dataBasedName": "Konianke",
+    "eventReportIds": [
+      71104,
+      71105,
+      71107,
+      359528
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {
+      "Malink\u00e9": 1
+    },
+    "oppositions": {
+      "Kpelle": 4
+    },
+    "links": [
+      {
+        "source": "Konianke",
+        "target": "Kpelle",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          71104,
+          71105,
+          71107,
+          359528
+        ]
+      },
+      {
+        "source": "Konianke",
+        "target": "Malink\u00e9",
+        "linkType": 0,
+        "count": 1,
+        "reports": [
+          359528
+        ]
+      },
+      {
+        "source": "Kpelle",
+        "target": "Malink\u00e9",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          359528
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 463,
+    "dataBasedName": "RFDG",
+    "eventReportIds": [
+      11925,
+      12595,
+      12661,
+      12673,
+      12675,
+      12676,
+      12677,
+      12682,
+      12683,
+      12702,
+      12704,
+      12706,
+      12713,
+      12724,
+      12742,
+      12748,
+      12779,
+      12782,
+      12821,
+      12822,
+      11856,
+      11999,
+      12586,
+      12820
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Guinea": 24
+    },
+    "links": [
+      {
+        "source": "Government of Guinea",
+        "target": "RFDG",
+        "linkType": 1,
+        "count": 24,
+        "reports": [
+          11925,
+          12595,
+          12661,
+          12673,
+          12675,
+          12676,
+          12677,
+          12682,
+          12683,
+          12702,
+          12704,
+          12706,
+          12713,
+          12724,
+          12742,
+          12748,
+          12779,
+          12782,
+          12821,
+          12822,
+          11856,
+          11999,
+          12586,
+          12820
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

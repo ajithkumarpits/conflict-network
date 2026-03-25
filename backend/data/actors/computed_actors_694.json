@@ -1,0 +1,60 @@
+[
+  {
+    "id": 57,
+    "dataBasedName": "Government of Russia (Soviet Union)",
+    "eventReportIds": [
+      192298
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Chechen Republic of Ichkeria": 1
+    },
+    "links": [
+      {
+        "source": "Government of Russia (Soviet Union)",
+        "target": "Chechen Republic of Ichkeria",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          192298
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 352,
+    "dataBasedName": "Chechen Republic of Ichkeria",
+    "eventReportIds": [
+      192298
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Russia (Soviet Union)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Russia (Soviet Union)",
+        "target": "Chechen Republic of Ichkeria",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          192298
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

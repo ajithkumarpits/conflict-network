@@ -1,0 +1,118 @@
+[
+  {
+    "id": 6254,
+    "dataBasedName": "Forces of the Presidential Leadership Council",
+    "eventReportIds": [
+      428462
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Yemen (North Yemen)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Yemen (North Yemen)",
+        "target": "Forces of the Presidential Leadership Council",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          428462
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 121,
+    "dataBasedName": "Government of Israel",
+    "eventReportIds": [
+      179967
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Hamas": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "Hamas",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          179967
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 123,
+    "dataBasedName": "Government of Yemen (North Yemen)",
+    "eventReportIds": [
+      428462
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Forces of the Presidential Leadership Council": 1
+    },
+    "links": [
+      {
+        "source": "Government of Yemen (North Yemen)",
+        "target": "Forces of the Presidential Leadership Council",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          428462
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 209,
+    "dataBasedName": "Hamas",
+    "eventReportIds": [
+      179967
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Israel": 1
+    },
+    "links": [
+      {
+        "source": "Government of Israel",
+        "target": "Hamas",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          179967
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

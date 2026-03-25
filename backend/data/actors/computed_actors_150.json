@@ -1,0 +1,196 @@
+[
+  {
+    "id": 3176,
+    "dataBasedName": "PCC",
+    "eventReportIds": [
+      238993,
+      381745,
+      429869
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.3333333333333333,
+      "3": 0.6666666666666666
+    },
+    "eventTypes": [
+      2,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Comando Vermelho": 1,
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "Comando Vermelho",
+        "target": "PCC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          238993
+        ]
+      },
+      {
+        "source": "PCC",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          381745,
+          429869
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 724,
+    "dataBasedName": "Military faction (forces of Andres Rodriguez)",
+    "eventReportIds": [
+      115459
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Paraguay": 1
+    },
+    "links": [
+      {
+        "source": "Government of Paraguay",
+        "target": "Military faction (forces of Andres Rodriguez)",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115459
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 99159,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      279899,
+      381745,
+      429869
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Comando Vermelho": 1,
+      "PCC": 2
+    },
+    "links": [
+      {
+        "source": "Comando Vermelho",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          279899
+        ]
+      },
+      {
+        "source": "PCC",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          381745,
+          429869
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 772,
+    "dataBasedName": "Comando Vermelho",
+    "eventReportIds": [
+      238993,
+      279899
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.5,
+      "3": 0.5
+    },
+    "eventTypes": [
+      2,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1,
+      "PCC": 1
+    },
+    "links": [
+      {
+        "source": "Comando Vermelho",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          279899
+        ]
+      },
+      {
+        "source": "Comando Vermelho",
+        "target": "PCC",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          238993
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 24,
+    "dataBasedName": "Government of Paraguay",
+    "eventReportIds": [
+      115459
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Military faction (forces of Andres Rodriguez)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Paraguay",
+        "target": "Military faction (forces of Andres Rodriguez)",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          115459
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

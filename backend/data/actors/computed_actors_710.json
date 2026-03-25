@@ -1,0 +1,409 @@
+[
+  {
+    "id": 144,
+    "dataBasedName": "Government of Myanmar (Burma)",
+    "eventReportIds": [
+      50731,
+      51227,
+      209343,
+      499546
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "KIO": 1,
+      "MNDAA": 3
+    },
+    "links": [
+      {
+        "source": "Government of Myanmar (Burma)",
+        "target": "KIO",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          499546
+        ]
+      },
+      {
+        "source": "Government of Myanmar (Burma)",
+        "target": "MNDAA",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          50731,
+          51227,
+          209343
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 880,
+    "dataBasedName": "MNDAA",
+    "eventReportIds": [
+      50731,
+      51227,
+      209343
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Myanmar (Burma)": 3
+    },
+    "links": [
+      {
+        "source": "Government of Myanmar (Burma)",
+        "target": "MNDAA",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          50731,
+          51227,
+          209343
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 2460,
+    "dataBasedName": "Han Chinese",
+    "eventReportIds": [
+      74345,
+      74366,
+      74374
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Uighur": 3
+    },
+    "links": [
+      {
+        "source": "Han Chinese",
+        "target": "Uighur",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          74345,
+          74366,
+          74374
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 1156,
+    "dataBasedName": "ETIM",
+    "eventReportIds": [
+      74346,
+      74348,
+      74349,
+      73394,
+      74333,
+      78937,
+      74342,
+      74343,
+      74344,
+      74347,
+      74351,
+      74375,
+      238682,
+      239016
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of China": 14
+    },
+    "links": [
+      {
+        "source": "Government of China",
+        "target": "ETIM",
+        "linkType": 1,
+        "count": 14,
+        "reports": [
+          74346,
+          74348,
+          74349,
+          73394,
+          74333,
+          78937,
+          74342,
+          74343,
+          74344,
+          74347,
+          74351,
+          74375,
+          238682,
+          239016
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97469,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      73389,
+      74310,
+      74354,
+      74331,
+      74383,
+      73305,
+      74303,
+      74319,
+      74323,
+      74324,
+      74325,
+      74326,
+      74327,
+      74328,
+      74353,
+      74355,
+      74365,
+      74369
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of China": 18
+    },
+    "links": [
+      {
+        "source": "Government of China",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 18,
+        "reports": [
+          73389,
+          74310,
+          74354,
+          74331,
+          74383,
+          73305,
+          74303,
+          74319,
+          74323,
+          74324,
+          74325,
+          74326,
+          74327,
+          74328,
+          74353,
+          74355,
+          74365,
+          74369
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 201,
+    "dataBasedName": "KIO",
+    "eventReportIds": [
+      499546
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Myanmar (Burma)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Myanmar (Burma)",
+        "target": "KIO",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          499546
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 2461,
+    "dataBasedName": "Uighur",
+    "eventReportIds": [
+      74345,
+      74366,
+      74374
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Han Chinese": 3
+    },
+    "links": [
+      {
+        "source": "Han Chinese",
+        "target": "Uighur",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          74345,
+          74366,
+          74374
+        ]
+      }
+    ],
+    "actorType": 3
+  },
+  {
+    "id": 135,
+    "dataBasedName": "Government of China",
+    "eventReportIds": [
+      73389,
+      74310,
+      74346,
+      74348,
+      74349,
+      74354,
+      73394,
+      74331,
+      74333,
+      74383,
+      78937,
+      73305,
+      74303,
+      74319,
+      74323,
+      74324,
+      74325,
+      74326,
+      74327,
+      74328,
+      74342,
+      74343,
+      74344,
+      74347,
+      74351,
+      74353,
+      74355,
+      74365,
+      74369,
+      74375,
+      238682,
+      239016
+    ],
+    "eventTypeSummary": {
+      "1": 0.4375,
+      "2": 0.0,
+      "3": 0.5625
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 18,
+      "ETIM": 14
+    },
+    "links": [
+      {
+        "source": "Government of China",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 18,
+        "reports": [
+          73389,
+          74310,
+          74354,
+          74331,
+          74383,
+          73305,
+          74303,
+          74319,
+          74323,
+          74324,
+          74325,
+          74326,
+          74327,
+          74328,
+          74353,
+          74355,
+          74365,
+          74369
+        ]
+      },
+      {
+        "source": "Government of China",
+        "target": "ETIM",
+        "linkType": 1,
+        "count": 14,
+        "reports": [
+          74346,
+          74348,
+          74349,
+          73394,
+          74333,
+          78937,
+          74342,
+          74343,
+          74344,
+          74347,
+          74351,
+          74375,
+          238682,
+          239016
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

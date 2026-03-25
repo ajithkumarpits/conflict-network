@@ -1,0 +1,30 @@
+@import  '../../styles/global';
+
+.world-map-legend{
+    max-width: 80%;
+    z-index: 1100; // hack to make visible on map
+    //position: absolute;
+    position: absolute;
+    bottom: 18px;
+    left: 10px;    
+    .legend-paper{
+        width: 100%;
+        height: 100%;
+        background-color: $light-grey;
+        padding: 5px;
+        .legend-wrapper{
+            width: 100%;
+            height: 100%;
+            display:flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            .legend-item{
+                max-width: 100%;
+                display: flex;
+                flex-direction: row;
+                overflow-wrap: break-word;
+            }
+        }
+    }  
+}

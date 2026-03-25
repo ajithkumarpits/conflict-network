@@ -1,0 +1,34 @@
+@import  '../../styles/global';
+
+.search-box{
+    // max-width: 50%;
+
+    &.Mui-focused {
+        .MuiFormControl-root {
+            fieldset.MuiOutlinedInput-notchedOutline {
+                padding-left:33px;
+                legend {
+                    span {
+                        position: relative;
+                        padding-right: 40px
+                    }
+                }
+            }
+            label {
+                left: 30px
+            }
+
+        }
+    }
+
+
+
+    
+
+
+}
+
+.custom-label{
+    padding-left:32px!important;
+    max-width: calc(100% - 84px)!important;
+}

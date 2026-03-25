@@ -1,0 +1,440 @@
+[
+  {
+    "id": 93,
+    "dataBasedName": "Government of Burundi",
+    "eventReportIds": [
+      10520,
+      240735
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "Government of Burundi",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          10520,
+          240735
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 528,
+    "dataBasedName": "FDLR-FOCA",
+    "eventReportIds": [
+      40005
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "FDLR-FOCA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          40005
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 234,
+    "dataBasedName": "IS",
+    "eventReportIds": [
+      319605,
+      364156,
+      376696,
+      413661,
+      416461,
+      420353,
+      423638,
+      423954,
+      424886,
+      424887,
+      428443,
+      451699
+    ],
+    "eventTypeSummary": {
+      "1": 0.5833333333333334,
+      "2": 0.0,
+      "3": 0.4166666666666667
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Tanzania": 7,
+      "Civilians": 5
+    },
+    "links": [
+      {
+        "source": "Government of Tanzania",
+        "target": "IS",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          364156,
+          376696,
+          413661,
+          423638,
+          424887,
+          428443,
+          451699
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          319605,
+          416461,
+          420353,
+          423954,
+          424886
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 96039,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      19810,
+      10520,
+      19313,
+      19783,
+      19785,
+      19786,
+      19793,
+      19794,
+      19806,
+      19808,
+      40005,
+      436424,
+      456421,
+      240735,
+      274138,
+      319605,
+      364565,
+      366285,
+      371798,
+      371929,
+      371930,
+      375465,
+      423675,
+      423676,
+      423678,
+      423683,
+      423684,
+      423687,
+      423689,
+      423691,
+      456426,
+      456432,
+      459980,
+      416461,
+      420353,
+      423954,
+      424886,
+      430762,
+      456429
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "FDLR-FOCA": 1,
+      "Government of Burundi": 2,
+      "Government of Tanzania": 31,
+      "IS": 5
+    },
+    "links": [
+      {
+        "source": "FDLR-FOCA",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          40005
+        ]
+      },
+      {
+        "source": "Government of Burundi",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          10520,
+          240735
+        ]
+      },
+      {
+        "source": "Government of Tanzania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 31,
+        "reports": [
+          19810,
+          19313,
+          19783,
+          19785,
+          19786,
+          19793,
+          19794,
+          19806,
+          19808,
+          436424,
+          456421,
+          274138,
+          364565,
+          366285,
+          371798,
+          371929,
+          371930,
+          375465,
+          423675,
+          423676,
+          423678,
+          423683,
+          423684,
+          423687,
+          423689,
+          423691,
+          456426,
+          456432,
+          459980,
+          430762,
+          456429
+        ]
+      },
+      {
+        "source": "IS",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          319605,
+          416461,
+          420353,
+          423954,
+          424886
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 92,
+    "dataBasedName": "Government of Tanzania",
+    "eventReportIds": [
+      19810,
+      19313,
+      19783,
+      19785,
+      19786,
+      19793,
+      19794,
+      19806,
+      19808,
+      436424,
+      456421,
+      274138,
+      364156,
+      364565,
+      366285,
+      371798,
+      371929,
+      371930,
+      375465,
+      376696,
+      423675,
+      423676,
+      423678,
+      423683,
+      423684,
+      423687,
+      423689,
+      423691,
+      456426,
+      456432,
+      459980,
+      413661,
+      423638,
+      424887,
+      428443,
+      430762,
+      451699,
+      456429
+    ],
+    "eventTypeSummary": {
+      "1": 0.18421052631578946,
+      "2": 0.0,
+      "3": 0.8157894736842105
+    },
+    "eventTypes": [
+      3,
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 31,
+      "IS": 7
+    },
+    "links": [
+      {
+        "source": "Government of Tanzania",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 31,
+        "reports": [
+          19810,
+          19313,
+          19783,
+          19785,
+          19786,
+          19793,
+          19794,
+          19806,
+          19808,
+          436424,
+          456421,
+          274138,
+          364565,
+          366285,
+          371798,
+          371929,
+          371930,
+          375465,
+          423675,
+          423676,
+          423678,
+          423683,
+          423684,
+          423687,
+          423689,
+          423691,
+          456426,
+          456432,
+          459980,
+          430762,
+          456429
+        ]
+      },
+      {
+        "source": "Government of Tanzania",
+        "target": "IS",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          364156,
+          376696,
+          413661,
+          423638,
+          424887,
+          428443,
+          451699
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 432,
+    "dataBasedName": "Palipehutu-FNL",
+    "eventReportIds": [
+      192373
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "CNDD": 1
+    },
+    "links": [
+      {
+        "source": "CNDD",
+        "target": "Palipehutu-FNL",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          192373
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 431,
+    "dataBasedName": "CNDD",
+    "eventReportIds": [
+      192373
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Palipehutu-FNL": 1
+    },
+    "links": [
+      {
+        "source": "CNDD",
+        "target": "Palipehutu-FNL",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          192373
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

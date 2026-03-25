@@ -1,0 +1,104 @@
+[
+  {
+    "id": 16,
+    "dataBasedName": "Government of Panama",
+    "eventReportIds": [
+      128947,
+      128948,
+      128950
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of United States of America": 2,
+      "Military faction (forces of Mois\u00e9s Giroldi)": 1
+    },
+    "links": [
+      {
+        "source": "Government of Panama",
+        "target": "Government of United States of America",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          128948,
+          128950
+        ]
+      },
+      {
+        "source": "Government of Panama",
+        "target": "Military faction (forces of Mois\u00e9s Giroldi)",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          128947
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 3,
+    "dataBasedName": "Government of United States of America",
+    "eventReportIds": [
+      128948,
+      128950
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Panama": 2
+    },
+    "links": [
+      {
+        "source": "Government of Panama",
+        "target": "Government of United States of America",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          128948,
+          128950
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 4367443,
+    "dataBasedName": "Military faction (forces of Mois\u00e9s Giroldi)",
+    "eventReportIds": [
+      128947
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Panama": 1
+    },
+    "links": [
+      {
+        "source": "Government of Panama",
+        "target": "Military faction (forces of Mois\u00e9s Giroldi)",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          128947
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

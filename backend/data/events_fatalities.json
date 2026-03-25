@@ -1,0 +1,2354 @@
+{
+  "2": {
+    "events": 1,
+    "fatalities": 1,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "20": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "31": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "40": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "41": {
+    "events": 65,
+    "fatalities": 236,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "42": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "51": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "52": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "53": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "54": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "55": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "56": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "57": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "58": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "60": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "70": {
+    "events": 2226,
+    "fatalities": 14336,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "80": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "90": {
+    "events": 2,
+    "fatalities": 12,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "91": {
+    "events": 2,
+    "fatalities": 5,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "92": {
+    "events": 68,
+    "fatalities": 88,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "93": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "94": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "95": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "100": {
+    "events": 138,
+    "fatalities": 292,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "101": {
+    "events": 21,
+    "fatalities": 35,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "110": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "115": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "130": {
+    "events": 9,
+    "fatalities": 115,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "135": {
+    "events": 3,
+    "fatalities": 14,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "140": {
+    "events": 1489,
+    "fatalities": 1656,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "145": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "150": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "155": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "160": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "165": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "200": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "205": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "210": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "211": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "212": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "220": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "221": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "223": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "225": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "230": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "232": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "235": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "260": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "290": {
+    "events": 1,
+    "fatalities": 2,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "305": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "310": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "315": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "317": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "325": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "331": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "338": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "339": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "340": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "341": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "343": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "344": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "346": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "349": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "350": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "352": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "355": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "359": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "360": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "365": {
+    "events": 32,
+    "fatalities": 67,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "366": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "367": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "368": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "369": {
+    "events": 5902,
+    "fatalities": 92821,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "370": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "371": {
+    "events": 8,
+    "fatalities": 154,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "372": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "373": {
+    "events": 9,
+    "fatalities": 154,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "375": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "380": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "385": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "390": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "395": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "402": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "403": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "404": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "411": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "420": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "432": {
+    "events": 408,
+    "fatalities": 3650,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "433": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "434": {
+    "events": 8,
+    "fatalities": 30,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "435": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "436": {
+    "events": 70,
+    "fatalities": 664,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "437": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "438": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "439": {
+    "events": 236,
+    "fatalities": 2609,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "450": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "451": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "452": {
+    "events": 5,
+    "fatalities": 16,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "461": {
+    "events": 8,
+    "fatalities": 62,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "471": {
+    "events": 225,
+    "fatalities": 667,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "475": {
+    "events": 469,
+    "fatalities": 2910,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "481": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "482": {
+    "events": 105,
+    "fatalities": 773,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "483": {
+    "events": 12,
+    "fatalities": 114,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "484": {
+    "events": 2,
+    "fatalities": 3,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "490": {
+    "events": 1197,
+    "fatalities": 5965,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "500": {
+    "events": 6,
+    "fatalities": 25,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "501": {
+    "events": 31,
+    "fatalities": 101,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "510": {
+    "events": 3,
+    "fatalities": 4,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "516": {
+    "events": 42,
+    "fatalities": 48,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "517": {
+    "events": 3,
+    "fatalities": 8,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "520": {
+    "events": 338,
+    "fatalities": 3115,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "522": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "530": {
+    "events": 879,
+    "fatalities": 165020,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "531": {
+    "events": 4,
+    "fatalities": 4,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "540": {
+    "events": 17,
+    "fatalities": 21,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "541": {
+    "events": 268,
+    "fatalities": 717,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "551": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "552": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "553": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "560": {
+    "events": 4,
+    "fatalities": 4,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "565": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "570": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "571": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "572": {
+    "events": 2,
+    "fatalities": 2,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "580": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "581": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "590": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "591": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "600": {
+    "events": 4,
+    "fatalities": 14,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "615": {
+    "events": 3,
+    "fatalities": 14,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "616": {
+    "events": 1,
+    "fatalities": 3,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "620": {
+    "events": 7,
+    "fatalities": 13,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "625": {
+    "events": 110,
+    "fatalities": 1407,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "626": {
+    "events": 35,
+    "fatalities": 728,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "630": {
+    "events": 157,
+    "fatalities": 250,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "640": {
+    "events": 58,
+    "fatalities": 92,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "645": {
+    "events": 348,
+    "fatalities": 992,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "651": {
+    "events": 68,
+    "fatalities": 236,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "652": {
+    "events": 793,
+    "fatalities": 1671,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "660": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "663": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "666": {
+    "events": 45,
+    "fatalities": 98,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "670": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "680": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "690": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "692": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "694": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "696": {
+    "events": 1,
+    "fatalities": 3,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "698": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "700": {
+    "events": 410,
+    "fatalities": 1568,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "701": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "702": {
+    "events": 26,
+    "fatalities": 87,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "703": {
+    "events": 32,
+    "fatalities": 68,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "704": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "705": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "710": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "712": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "731": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "732": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "740": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "750": {
+    "events": 266,
+    "fatalities": 393,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "760": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "770": {
+    "events": 278,
+    "fatalities": 700,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "771": {
+    "events": 8,
+    "fatalities": 13,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "775": {
+    "events": 1548,
+    "fatalities": 2761,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      610.0,
+      165020.0
+    ]
+  },
+  "780": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "781": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "790": {
+    "events": 1,
+    "fatalities": 1,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "800": {
+    "events": 25,
+    "fatalities": 35,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      3.0,
+      63.0
+    ]
+  },
+  "811": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "812": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "817": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "820": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "830": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "835": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "840": {
+    "events": 128,
+    "fatalities": 247,
+    "events_bin": [
+      124.0,
+      5902.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "850": {
+    "events": 33,
+    "fatalities": 64,
+    "events_bin": [
+      11.0,
+      124.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "860": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "900": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "910": {
+    "events": 10,
+    "fatalities": 101,
+    "events_bin": [
+      2.0,
+      11.0
+    ],
+    "fatalities_bin": [
+      63.0,
+      610.0
+    ]
+  },
+  "920": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "935": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "940": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "950": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "970": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "971": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "972": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "973": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "983": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "986": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "987": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "990": {
+    "events": 0,
+    "fatalities": 0,
+    "events_bin": [
+      -1.0,
+      2.0
+    ],
+    "fatalities_bin": [
+      -1.0,
+      3.0
+    ]
+  },
+  "events": [
+    [
+      -1.0,
+      2.0
+    ],
+    [
+      2.0,
+      11.0
+    ],
+    [
+      11.0,
+      124.0
+    ],
+    [
+      124.0,
+      5902.0
+    ]
+  ],
+  "fatalities": [
+    [
+      -1.0,
+      3.0
+    ],
+    [
+      3.0,
+      63.0
+    ],
+    [
+      63.0,
+      610.0
+    ],
+    [
+      610.0,
+      165020.0
+    ]
+  ]
+}

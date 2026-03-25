@@ -1,0 +1,14 @@
+{
+    "cooperation": {
+        "colour": "#92bde4",
+        "stroke": "10,5"
+    },
+    "opposition": {
+        "colour": "#e4b992",
+        "stroke": ""
+    },
+    "mediation": {
+        "colour": "#4040c9",
+        "stroke": ""
+    }
+}

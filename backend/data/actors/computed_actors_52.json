@@ -1,0 +1,68 @@
+[
+  {
+    "id": 8,
+    "dataBasedName": "Government of Trinidad and Tobago",
+    "eventReportIds": [
+      68690,
+      69223,
+      115140
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Jamaat al-Muslimeen": 3
+    },
+    "links": [
+      {
+        "source": "Government of Trinidad and Tobago",
+        "target": "Jamaat al-Muslimeen",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          68690,
+          69223,
+          115140
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 762,
+    "dataBasedName": "Jamaat al-Muslimeen",
+    "eventReportIds": [
+      68690,
+      69223,
+      115140
+    ],
+    "eventTypeSummary": {
+      "1": 1.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Trinidad and Tobago": 3
+    },
+    "links": [
+      {
+        "source": "Government of Trinidad and Tobago",
+        "target": "Jamaat al-Muslimeen",
+        "linkType": 1,
+        "count": 3,
+        "reports": [
+          68690,
+          69223,
+          115140
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

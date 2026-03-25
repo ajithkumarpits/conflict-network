@@ -1,0 +1,4 @@
+const spike_fence = (
+    "M8.75891 8.75891L12 0H15V4H24V10H15V14H24V20H15V24H12L8.75891 15.2411L0 12L8.75891 8.75891Z"
+)
+export default spike_fence

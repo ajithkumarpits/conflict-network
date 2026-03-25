@@ -1,0 +1,382 @@
+[
+  {
+    "id": 410,
+    "dataBasedName": "TPLF",
+    "eventReportIds": [
+      440161,
+      455351,
+      455864,
+      457679
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Ethiopia": 4
+    },
+    "links": [
+      {
+        "source": "Government of Ethiopia",
+        "target": "TPLF",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          440161,
+          455351,
+          455864,
+          457679
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97,
+    "dataBasedName": "Government of Ethiopia",
+    "eventReportIds": [
+      32277,
+      34340,
+      34345,
+      34359,
+      34369,
+      34370,
+      34389,
+      34397,
+      34401,
+      34407,
+      34410,
+      34431,
+      34440,
+      34442,
+      34443,
+      34446,
+      34448,
+      34451,
+      34462,
+      71330,
+      229161,
+      440161,
+      455351,
+      455864,
+      457679
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Eritrea": 21,
+      "TPLF": 4
+    },
+    "links": [
+      {
+        "source": "Government of Eritrea",
+        "target": "Government of Ethiopia",
+        "linkType": 1,
+        "count": 21,
+        "reports": [
+          32277,
+          34340,
+          34345,
+          34359,
+          34369,
+          34370,
+          34389,
+          34397,
+          34401,
+          34407,
+          34410,
+          34431,
+          34440,
+          34442,
+          34443,
+          34446,
+          34448,
+          34451,
+          34462,
+          71330,
+          229161
+        ]
+      },
+      {
+        "source": "Government of Ethiopia",
+        "target": "TPLF",
+        "linkType": 1,
+        "count": 4,
+        "reports": [
+          440161,
+          455351,
+          455864,
+          457679
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 98,
+    "dataBasedName": "Government of Eritrea",
+    "eventReportIds": [
+      24752,
+      24754,
+      24799,
+      20221,
+      20262,
+      20485,
+      20971,
+      20972,
+      24777,
+      24743,
+      24751,
+      24763,
+      24780,
+      24784,
+      24785,
+      24788,
+      24821,
+      24824,
+      32277,
+      34340,
+      34345,
+      34359,
+      34369,
+      34370,
+      34389,
+      34397,
+      34401,
+      34407,
+      34410,
+      34431,
+      34440,
+      34442,
+      34443,
+      34446,
+      34448,
+      34451,
+      34462,
+      71330,
+      20548,
+      24742,
+      24757,
+      24758,
+      24759,
+      24781,
+      24783,
+      24795,
+      24800,
+      24762,
+      229161
+    ],
+    "eventTypeSummary": {
+      "1": 0.8979591836734694,
+      "3": 0.10204081632653061
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 5,
+      "EIJM - AS": 23,
+      "Government of Ethiopia": 21
+    },
+    "links": [
+      {
+        "source": "Government of Eritrea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          20485,
+          24777,
+          24821,
+          24824,
+          24762
+        ]
+      },
+      {
+        "source": "Government of Eritrea",
+        "target": "EIJM - AS",
+        "linkType": 1,
+        "count": 23,
+        "reports": [
+          24752,
+          24754,
+          24799,
+          20221,
+          20262,
+          20971,
+          20972,
+          24743,
+          24751,
+          24763,
+          24780,
+          24784,
+          24785,
+          24788,
+          20548,
+          24742,
+          24757,
+          24758,
+          24759,
+          24781,
+          24783,
+          24795,
+          24800
+        ]
+      },
+      {
+        "source": "Government of Eritrea",
+        "target": "Government of Ethiopia",
+        "linkType": 1,
+        "count": 21,
+        "reports": [
+          32277,
+          34340,
+          34345,
+          34359,
+          34369,
+          34370,
+          34389,
+          34397,
+          34401,
+          34407,
+          34410,
+          34431,
+          34440,
+          34442,
+          34443,
+          34446,
+          34448,
+          34451,
+          34462,
+          71330,
+          229161
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 94959,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      20485,
+      24777,
+      24821,
+      24824,
+      24762
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Eritrea": 5
+    },
+    "links": [
+      {
+        "source": "Government of Eritrea",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 5,
+        "reports": [
+          20485,
+          24777,
+          24821,
+          24824,
+          24762
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 495,
+    "dataBasedName": "EIJM - AS",
+    "eventReportIds": [
+      24752,
+      24754,
+      24799,
+      20221,
+      20262,
+      20971,
+      20972,
+      24743,
+      24751,
+      24763,
+      24780,
+      24784,
+      24785,
+      24788,
+      20548,
+      24742,
+      24757,
+      24758,
+      24759,
+      24781,
+      24783,
+      24795,
+      24800
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Eritrea": 23
+    },
+    "links": [
+      {
+        "source": "Government of Eritrea",
+        "target": "EIJM - AS",
+        "linkType": 1,
+        "count": 23,
+        "reports": [
+          24752,
+          24754,
+          24799,
+          20221,
+          20262,
+          20971,
+          20972,
+          24743,
+          24751,
+          24763,
+          24780,
+          24784,
+          24785,
+          24788,
+          20548,
+          24742,
+          24757,
+          24758,
+          24759,
+          24781,
+          24783,
+          24795,
+          24800
+        ]
+      }
+    ],
+    "actorType": 1
+  }
+]

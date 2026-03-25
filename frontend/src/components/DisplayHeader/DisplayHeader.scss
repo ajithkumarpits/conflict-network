@@ -1,0 +1,8 @@
+@import  '../../styles/global';
+
+.display-controls{
+    display: flex;
+    // flex-direction: row;
+    justify-content: space-between;
+    // padding: $padding-small 0;
+}

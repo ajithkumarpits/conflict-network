@@ -1,0 +1,47 @@
+@import  '../../../styles/global';
+
+header {
+    padding: 0;
+    .header-container {
+        padding: 0 $padding-big;
+        .header-logo {            
+            img {
+                cursor: pointer;
+                width: 100%;
+            }
+        }
+    }
+    .header-nav {
+        min-height: 42px;
+        .MuiTabs-flexContainer {
+            display: flex;
+            gap: 30px;
+        }
+        .header-nav-item {
+            padding: 0;
+            font-size: $font-x-medium;
+            line-height: $line-height-24;
+            min-height: inherit;
+            min-width: inherit;      
+        }
+    }
+    .hamburger-react{
+    
+    left: 11px!important;
+
+    div{
+        border-radius: 2px;
+        height: 3px!important;
+      
+    }
+}
+}
+
+.hamburger-react{cursor: none !important;}
+.drawer-open {
+    .hamburger-react div {
+      height: 2px !important;
+    }
+  }
+  
+

@@ -1,0 +1,157 @@
+id,relid,year,active_year,code_status,type_of_violence,conflict_dset_id,conflict_new_id,conflict_name,dyad_dset_id,dyad_new_id,dyad_name,side_a_dset_id,side_a_new_id,side_a,side_b_dset_id,side_b_new_id,side_b,number_of_sources,source_article,source_office,source_date,source_headline,source_original,where_prec,where_coordinates,where_description,adm_1,adm_2,latitude,longitude,geom_wkt,priogrid_gid,country,country_id,region,event_clarity,date_prec,date_start,date_end,deaths_a,deaths_b,deaths_civilians,deaths_unknown,best,high,low,gwnoa,gwnob,interaction
+61964,UZB-2000-1-363-3,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Interfax news agency, Moscow, in English 14 Aug 00. ""Ten rebels killed in fighting in southern Uzbekistan - ministry.",-,-,-,Uzbek Defence Ministry,4,Surxondaryo viloyati,Surkhandarya Region of southern Uzbekistan,Surxondaryo viloyati,-,38.0,67.5,POINT (67.5 38),184816,Uzbekistan,704,Asia,2,2,08/12/2000 00:00:00,08/13/2000 00:00:00,0,0,0,0,0,10,0,704.0,-,41
+61978,UZB-1999-1-363-6,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Reuters 16 Nov 1999 ""Ten die in clashes with gunmen nearUzbek capital."" / Uzbek Television first channel, Tashkent, in Russian 1430 gmt 16 Nov 99 ""Militants infiltrate Uzbekistan, six dead in Tashkent Region",-,-,-,Interior Minister,2,Yangiobod shahri,Yangiabad District of Tashkent Region,Toshkent viloyati,Yangiobod shahri,41.127778,70.107778,POINT (70.107778 41.127778),189141,Uzbekistan,704,Asia,2,1,11/15/1999 00:00:00,11/15/1999 00:00:00,3,4,3,0,10,10,10,704.0,-,41
+61981,UZB-2000-1-363-25,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"HD 
+
+ Ten Uzbek border guards killed by Muslim gunmen 
+
+
+
+WC 
+
+159 words
+
+
+
+PD 
+
+7 August 2000
+
+
+
+SN 
+
+Agence France-Presse
+
+
+
+SC 
+
+AFPR
+
+
+
+LA 
+
+English
+
+
+
+CY 
+
+ (Copyright 2000)",-,-,-,-,2,Sariosiyo tumani,Sariasiysky district of the Surkhandarinsk region,Surxondaryo viloyati,Sariosiyo tumani,38.666667,67.8,POINT (67.8 38.666667),185536,Uzbekistan,704,Asia,1,1,08/07/2000 00:00:00,08/07/2000 00:00:00,10,0,0,0,10,10,10,704.0,-,41
+61982,UZB-2000-1-363-27,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"HD 
+
+ ""Dozens of civilians killed, injured"" in clashes in Uzbek south - Iran radio. 
+
+
+
+WC 
+
+127 words
+
+
+
+PD 
+
+9 August 2000
+
+
+
+ET 
+
+19:05
+
+
+
+SN 
+
+BBC Monitoring Central Asia
+
+
+
+SC 
+
+BBCCA
+
+
+
+LA 
+
+English
+
+
+
+CY 
+
+(c) 2000 The British Broadcasting Corporation [date of publication]. All Rights Reserved. No material may be reproduced except with the express permission of The British Broadcasting Corporation.",-,-,-,official Uzbek government,1,Kishtut village,Kishtut village,Surxondaryo viloyati,Sariosiyo tumani,38.85,67.916667,POINT (67.916667 38.85),185536,Uzbekistan,704,Asia,1,2,08/07/2000 00:00:00,08/09/2000 00:00:00,100,8,0,0,108,108,108,704.0,-,41
+61983,UZB-2000-1-363-1,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,2,"""Associated Press Newswires,2000-08-07,Militants invade Uzbekistan villages, clash with troops"";""Associated Press Newswires,2000-08-09,Uzbek forces kill up to 15 militants, have the rest surrounded""",Associated Press Newswires;Associated Press Newswires,2000-08-07;2000-08-09,"Militants invade Uzbekistan villages, clash with troops;Uzbek forces kill up to 15 militants, have the rest surrounded","Uzbek Defense Ministry, quoting militants' radio intercepts",4,Surxondaryo viloyati,highland villages in Saryassiya and Uzun Districts of Surkhandarya Region of Uzbekistan,Surxondaryo viloyati,-,38.0,67.5,POINT (67.5 38),184816,Uzbekistan,704,Asia,1,1,08/09/2000 00:00:00,08/09/2000 00:00:00,0,15,0,0,15,15,15,704.0,-,41
+61984,UZB-2000-1-363-2,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Associated Press (AP) 10 Aug 2000 ""Uzbek forces kill 16 militants in mountain fighting",-,-,-,officials,1,Gissar gorge,Gissar gorge,Surxondaryo viloyati,Sariosiyo tumani,38.841014,67.928968,POINT (67.928968 38.841014),185536,Uzbekistan,704,Asia,1,1,08/10/2000 00:00:00,08/10/2000 00:00:00,0,16,0,0,16,16,16,704.0,-,41
+61985,UCB-2000-1-363-35,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,http://www.easttime.ru/analytics/uzbekistan/vtorzhenie-v-surkhandarinskuyu-oblast-uzbekistana,-,-,-,-,2,Kishtut village,valley of Kishtut,Surxondaryo viloyati,Sariosiyo tumani,38.85,67.916667,POINT (67.916667 38.85),185536,Uzbekistan,704,Asia,1,1,08/11/2000 00:00:00,08/11/2000 00:00:00,0,4,0,0,4,4,4,704.0,-,41
+61986,UZB-2000-1-363-28,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"http://www.easttime.ru/analytics/uzbekistan/vtorzhenie-v-surkhandarinskuyu-oblast-uzbekistana
+HD 
+
+ Clashes with Islamists mount in Uzbekistan, Kyrgyzstan, Tajikistan 
+
+
+
+WC 
+
+300 words
+
+
+
+PD 
+
+11 August 2000
+
+
+
+SN 
+
+Agence France-Presse
+
+
+
+SC 
+
+AFPR
+
+
+
+LA 
+
+English
+
+
+
+CY 
+
+ (Copyright 2000)",-,-,-,-,4,Surxondaryo viloyati,southern Surkhandarya Region,Surxondaryo viloyati,-,38.0,67.5,POINT (67.5 38),184816,Uzbekistan,704,Asia,1,1,08/11/2000 00:00:00,08/11/2000 00:00:00,5,31,0,0,36,36,5,704.0,-,41
+62028,UZB-2000-1-363-19,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Kabar news agency, Bishkek, in Kyrgyz 11 Sep 00 ""Seven militants, two Kyrgyz soldiers killed in clash.",-,-,-,Kyrgyz news agency Kabar,3,Bo'stonliq tumani,Bo'stonliq Tumani (Tashkent Region),Toshkent viloyati,Bo'stonliq tumani,41.666667,70.0,POINT (70 41.666667),189861,Uzbekistan,704,Asia,1,1,09/10/2000 00:00:00,09/10/2000 00:00:00,0,8,0,0,8,8,8,704.0,-,41
+62039,UZB-1999-1-363-3,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Uzbek Television first channel, Tashkent, in Russian 1430 gmt 19 May 99 ""Uzbeks start trial of those involved in bus hijacking incident in March 1999"" / Reuters 31 March 1999 ""Nine killed after gunmen seize bus in Uzbekistan"" / Reuters 7 July 1999 ""Uzbeks sentence two to death for hostage incident.""
+
+Taliban at the Doorstep of Central Asia Poonam Mann is a Research Assistant at IDSA. ' '
+Strategic Analysis. Vol. XXV, No. 1 © The Institute for Defence Studies and Analyses",-,-,-,state television,2,Buxoro tumani,"Buxoro Viloyati (Bukhara region about 500 km (300 miles) west of Tashkent, which was going to the town of Urgench [administrative centre of Khorezm Region] at the Sarymay traffic post located on the territory of Khorezm Region [north-western Uzbekistan] )",Buxoro viloyati,-,39.53542,64.39921,POINT (64.39921 39.53542),186969,Uzbekistan,704,Asia,1,1,03/30/1999 00:00:00,03/30/1999 00:00:00,4,3,2,0,9,9,9,704.0,-,41
+62040,UZB-2000-1-363-34,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,http://www.easttime.ru/analytics/uzbekistan/vtorzhenie-v-surkhandarinskuyu-oblast-uzbekistana,-,-,-,-,1,Sarinavo gorge,Sarinavo gorge,Surxondaryo viloyati,Sariosiyo tumani,38.845978,67.92612,POINT (67.92612 38.845978),185536,Uzbekistan,704,Asia,1,1,08/17/2000 00:00:00,08/17/2000 00:00:00,0,10,0,0,10,10,10,704.0,-,41
+62041,UZB-2000-1-363-8,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Uzbek Television first channel, Tashkent, in Russian 19 Aug 00. ""Uzbek troops kill Islamist fighters.",-,-,-,-,1,Kishtut village,"Kishtut-say stream in the Kishtut area, southern Uzbekistan's Surkhandarya Region",Surxondaryo viloyati,Sariosiyo tumani,38.85,67.916667,POINT (67.916667 38.85),185536,Uzbekistan,704,Asia,1,1,08/18/2000 00:00:00,08/18/2000 00:00:00,0,2,0,0,2,2,2,704.0,-,41
+62044,UZB-2000-1-363-11,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Kabar news agency, Bishkek, in Russian 24 Aug 00. ""Kyrgyz agency reports fighting in eastern Uzbekistan.",-,-,-,Kyrgyz news agency Kabar,4,Andijon viloyati,"eastern Fergana valley, Andijan Region",Andijon viloyati,-,40.782056,72.344238,POINT (72.344238 40.782056),188425,Uzbekistan,704,Asia,1,2,08/23/2000 00:00:00,08/24/2000 00:00:00,1,0,0,0,1,1,1,704.0,-,41
+62052,UZB-1999-1-363-7,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Voice of the Islamic Republic of Iran, Mashhad, in Uzbek 1500 gmt 25 Nov 99 ""Armed clashes near Uzbek capital leave 13 dead, BBC says - Iranian radio.",-,-,-,BBC,2,Yangiyer town,near the town of Yangiyer,Sirdaryo viloyati,Yangiyer shahri,40.275,68.8225,POINT (68.8225 40.275),187698,Uzbekistan,704,Asia,1,2,11/24/1999 00:00:00,11/25/1999 00:00:00,3,10,0,0,13,13,13,704.0,-,41
+62061,UZB-2000-1-363-231,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,Institutet för Strategisk Analys och prognoser (ISAP) 2005-2013 © Eastern Time (East Time) Russian edition,-,-,-,-,2,Sariosiyo tumani,Sariosiyo Tumani  (Sinchok valley),Surxondaryo viloyati,Sariosiyo tumani,38.666667,67.8,POINT (67.8 38.666667),185536,Uzbekistan,704,Asia,1,1,08/06/2000 00:00:00,08/06/2000 00:00:00,45,0,0,0,45,45,45,704.0,-,41
+62062,UZB-2000-1-363-26,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,Jihad: The Rise of Militant Islam in Central Asia Ahmed Rashid in Swedish Translation p. 173,-,-,-,-,3,Bo'stonliq tumani,Bo'stonliq Tumani (Mountains around Bostanlyk and Gazalkent near Toshkent),Toshkent viloyati,Bo'stonliq tumani,41.666667,70.0,POINT (70 41.666667),189861,Uzbekistan,704,Asia,1,1,08/24/2000 00:00:00,08/24/2000 00:00:00,2,0,0,0,2,2,2,704.0,-,41
+62077,UZB-2000-1-363-6,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Reuters 17 Aug 2000 ""UPDATE 1-Kyrgyz troops killed in borderclash with rebels.",-,-,-,Uzbek television /local news agencies,4,Surxondaryo viloyati,Surkhandarya Region of southern Uzbekistan,Surxondaryo viloyati,-,38.0,67.5,POINT (67.5 38),184816,Uzbekistan,704,Asia,2,4,08/07/2000 00:00:00,08/16/2000 00:00:00,2,19,0,0,21,21,21,704.0,-,41
+62080,UZB-1999-1-363-13,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Oil, Islam and Conflict"" by Rob Johnson p.122",-,-,-,-,2,Tashkent city,Outside Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,04/02/1999 00:00:00,04/02/1999 00:00:00,0,0,0,0,0,8,0,704.0,-,41
+62082,UZB-2000-1-363-13,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Associated Press (AP) 30 Aug 2000 ""Uzbek troops free two hostages, kill eight rebels",-,-,-,Defense Ministry spokesman,3,Bo'stonliq tumani,"Bo'stonliq Tumani (Chitkal range of Bostanlyk district, Tashkent ( capital) region)",Toshkent viloyati,Bo'stonliq tumani,41.666667,70.0,POINT (70 41.666667),189861,Uzbekistan,704,Asia,1,1,08/30/2000 00:00:00,08/30/2000 00:00:00,0,8,0,0,8,8,8,704.0,-,41
+62088,UZB-1999-1-363-1,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Uzbek Television first channel, Tashkent, in Russian 1720 gmt 16 Feb 99. ""Uzbek government says 13 died, 128 injured in explosions in Uzbek capital"" / Reuters 18 Feb 1999 ""FOCUS-Uzbeks mourn dead after Tashkent explosions.",-,-,-,Gov spokesman,1,Tashkent city,Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,02/16/1999 00:00:00,02/16/1999 00:00:00,0,0,0,16,16,16,13,704.0,-,41
+62089,UZB-1999-1-363-2,1999,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Radio Russia 30 March 1999 ""Uzbek police kill two suspects in Tashkent bomb inquiry.",-,-,-,-,1,Tashkent city,Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/30/1999 00:00:00,03/30/1999 00:00:00,0,2,0,0,2,2,2,704.0,-,41
+62093,UZB-2000-1-363-12,2000,True,Clear,1,415,415,Uzbekistan: Government,871,871,Government of Uzbekistan - IMU,133,133,Government of Uzbekistan,359,359,IMU,-1,"Interfax news agency, Moscow, in English 29 Aug 00. ""Uzbek president rules out talks with Islamic rebels.",-,-,-,Uzbek President,3,Bo'stonliq tumani,Bostanlyk,Toshkent viloyati,Bo'stonliq tumani,41.666667,70.0,POINT (70 41.666667),189861,Uzbekistan,704,Asia,1,1,08/28/2000 00:00:00,08/28/2000 00:00:00,3,8,0,0,11,11,11,704.0,-,41
+61973,UZB-2004-1-444-2,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Associated Press (AP) 29/3 2004,-,-,-,-,1,Tashkent city,"Tashkent (Tashkent tractor plant on Qushbegim Street,)",Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/29/2004 00:00:00,03/29/2004 00:00:00,3,1,0,0,4,4,4,704.0,-,41
+61974,UZB-2004-1-444-5,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Associated Press (AP) 30/3 2004,-,-,-,-,1,Tashkent city,Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/30/2004 00:00:00,03/30/2004 00:00:00,0,0,0,0,0,8,0,704.0,-,41
+61975,UZB-2004-1-444-3,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Associated Press (AP) 29/3 2004,-,-,-,"unclear, Interior ministry",1,Tashkent city,Tashkent (Chorsu market in the Old City),Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/29/2004 00:00:00,03/29/2004 00:00:00,0,1,2,0,3,6,3,704.0,-,41
+61997,UZB-2004-1-444-1,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,"Associated Press (AP) 29/3 2004, http://nefafoundation.org//file/FeaturedDocs/nefaijuoct08.pdf",-,-,-,-,1,Tashkent city,Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/29/2004 00:00:00,03/29/2004 00:00:00,3,1,0,0,4,4,4,704.0,-,41
+62046,UZB-2004-1-444-7,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Agence France-Presse (AFP) 1/4 http://nefafoundation.org//file/FeaturedDocs/nefaijuoct08.pdf,-,-,-,security officer,1,Tashkent city,Tashkent Sobir Rahimov district),Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/31/2004 00:00:00,03/31/2004 00:00:00,0,1,0,0,1,1,1,704.0,-,41
+62055,UZB-2004-1-444-8,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,BBC 30/7 2004,-,-,-,-,1,Tashkent city,Tashkent,Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,07/30/2004 00:00:00,07/30/2004 00:00:00,0,2,0,0,2,2,2,704.0,-,41
+62069,UZB-2004-1-444-6,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Associated Press (AP) 30/3 2004,-,-,-,-,1,Tashkent city,Tashkent (Yalangach),Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/30/2004 00:00:00,03/30/2004 00:00:00,0,18,0,0,18,20,0,704.0,-,41
+62072,UZB-2004-1-444-4,2004,True,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,Associated Press (AP) 30/3 2004,-,-,-,-,1,Tashkent city,Tashkent (Yalangach),Toshkent shahari,-,41.316667,69.25,POINT (69.25 41.316667),189139,Uzbekistan,704,Asia,1,1,03/30/2004 00:00:00,03/30/2004 00:00:00,3,2,0,0,5,5,5,704.0,-,41
+62008,UZB-2009-1-444-1,2009,False,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,"Agence France-Presse (AFP) 26 May 2009 ""Uzbek-Kyrgyz border closed amid gunfire: officials"" /AP 26 May 2009 ""Kyrgyzstan closes border with Uzbekistan"" /Interfax news agency, Moscow, in Russian 0622 gmt 27 May 09",-,-,-,Kyrgyz officials /Uzbek official,1,Khanabad town,"Khanabad (Uzbek border town in Andijan region, alternative spelling Xonobod)",Andijon viloyati,Xonobod tumani,40.797619,73.004658,POINT (73.004658 40.797619),188427,Uzbekistan,704,Asia,1,1,05/25/2009 00:00:00,05/25/2009 00:00:00,0,0,0,11,11,11,11,704.0,-,41
+62009,UZB-2009-1-444-2,2009,False,Clear,1,415,415,Uzbekistan: Government,872,872,Government of Uzbekistan - JIG,133,133,Government of Uzbekistan,360,360,JIG,-1,"Associated Press (AP) 26 May 2009 ""Kyrgyzstan closes border with Uzbekistan"" /AFP 27 May 2009 ""Kyrgyzstan denies involvement in Uzbekistan unrest"" /Interfax news agency, Moscow, in Russian 0622 gmt 27 May 09",-,-,-,-,1,Andijan town,Andijan (town in Fergana Valley),Andijon viloyati,Andijon shahri,40.783333,72.333333,POINT (72.3333333 40.7833333),188425,Uzbekistan,704,Asia,1,1,05/26/2009 00:00:00,05/26/2009 00:00:00,1,0,0,4,5,5,5,704.0,-,41

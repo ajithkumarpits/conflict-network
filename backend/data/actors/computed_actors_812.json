@@ -1,0 +1,192 @@
+[
+  {
+    "id": 246,
+    "dataBasedName": "LRM",
+    "eventReportIds": [
+      60828,
+      60829,
+      60888,
+      60891,
+      61220,
+      61245,
+      60977
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Laos": 7
+    },
+    "links": [
+      {
+        "source": "Government of Laos",
+        "target": "LRM",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          60828,
+          60829,
+          60888,
+          60891,
+          61220,
+          61245,
+          60977
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 91889,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      60956,
+      60901,
+      60803,
+      60823,
+      60958,
+      60991,
+      60992,
+      60994,
+      61008,
+      61009,
+      61225,
+      61226,
+      61227,
+      61250,
+      61318,
+      61319,
+      61330
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Laos": 17
+    },
+    "links": [
+      {
+        "source": "Government of Laos",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 17,
+        "reports": [
+          60956,
+          60901,
+          60803,
+          60823,
+          60958,
+          60991,
+          60992,
+          60994,
+          61008,
+          61009,
+          61225,
+          61226,
+          61227,
+          61250,
+          61318,
+          61319,
+          61330
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 149,
+    "dataBasedName": "Government of Laos",
+    "eventReportIds": [
+      60828,
+      60829,
+      60888,
+      60891,
+      60956,
+      61220,
+      61245,
+      60901,
+      60803,
+      60823,
+      60958,
+      60977,
+      60991,
+      60992,
+      60994,
+      61008,
+      61009,
+      61225,
+      61226,
+      61227,
+      61250,
+      61318,
+      61319,
+      61330
+    ],
+    "eventTypeSummary": {
+      "1": 0.2916666666666667,
+      "3": 0.7083333333333334
+    },
+    "eventTypes": [
+      1,
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 17,
+      "LRM": 7
+    },
+    "links": [
+      {
+        "source": "Government of Laos",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 17,
+        "reports": [
+          60956,
+          60901,
+          60803,
+          60823,
+          60958,
+          60991,
+          60992,
+          60994,
+          61008,
+          61009,
+          61225,
+          61226,
+          61227,
+          61250,
+          61318,
+          61319,
+          61330
+        ]
+      },
+      {
+        "source": "Government of Laos",
+        "target": "LRM",
+        "linkType": 1,
+        "count": 7,
+        "reports": [
+          60828,
+          60829,
+          60888,
+          60891,
+          61220,
+          61245,
+          60977
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

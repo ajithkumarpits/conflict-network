@@ -1,0 +1,60 @@
+[
+  {
+    "id": 96189,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      16217
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of South Africa": 1
+    },
+    "links": [
+      {
+        "source": "Government of South Africa",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          16217
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 102,
+    "dataBasedName": "Government of South Africa",
+    "eventReportIds": [
+      16217
+    ],
+    "eventTypeSummary": {
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "Government of South Africa",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          16217
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

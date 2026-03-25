@@ -1,0 +1,251 @@
+[
+  {
+    "id": 393,
+    "dataBasedName": "Salafia Jihadia",
+    "eventReportIds": [
+      24844,
+      24891
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 2
+    },
+    "links": [
+      {
+        "source": "Salafia Jihadia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          24844,
+          24891
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 563,
+    "dataBasedName": "POLISARIO",
+    "eventReportIds": [
+      20311,
+      24890,
+      24901,
+      24902,
+      24903,
+      24904,
+      24907,
+      24916,
+      391501,
+      385664,
+      385685,
+      385697,
+      385698,
+      396479,
+      420096,
+      423699,
+      428221,
+      428222,
+      436462,
+      464209,
+      511311,
+      511319
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Morocco": 22
+    },
+    "links": [
+      {
+        "source": "Government of Morocco",
+        "target": "POLISARIO",
+        "linkType": 1,
+        "count": 22,
+        "reports": [
+          20311,
+          24890,
+          24901,
+          24902,
+          24903,
+          24904,
+          24907,
+          24916,
+          391501,
+          385664,
+          385685,
+          385697,
+          385698,
+          396479,
+          420096,
+          423699,
+          428221,
+          428222,
+          436462,
+          464209,
+          511311,
+          511319
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 97449,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      24844,
+      24891,
+      41201
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "AQIM": 1,
+      "Salafia Jihadia": 2
+    },
+    "links": [
+      {
+        "source": "AQIM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          41201
+        ]
+      },
+      {
+        "source": "Salafia Jihadia",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 2,
+        "reports": [
+          24844,
+          24891
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 539,
+    "dataBasedName": "AQIM",
+    "eventReportIds": [
+      41201
+    ],
+    "eventTypeSummary": {
+      "1": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 1
+    },
+    "links": [
+      {
+        "source": "AQIM",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 1,
+        "reports": [
+          41201
+        ]
+      }
+    ],
+    "actorType": 1
+  },
+  {
+    "id": 108,
+    "dataBasedName": "Government of Morocco",
+    "eventReportIds": [
+      20311,
+      24890,
+      24901,
+      24902,
+      24903,
+      24904,
+      24907,
+      24916,
+      391501,
+      385664,
+      385685,
+      385697,
+      385698,
+      396479,
+      420096,
+      423699,
+      428221,
+      428222,
+      436462,
+      464209,
+      511311,
+      511319
+    ],
+    "eventTypeSummary": {
+      "1": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      1
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "POLISARIO": 22
+    },
+    "links": [
+      {
+        "source": "Government of Morocco",
+        "target": "POLISARIO",
+        "linkType": 1,
+        "count": 22,
+        "reports": [
+          20311,
+          24890,
+          24901,
+          24902,
+          24903,
+          24904,
+          24907,
+          24916,
+          391501,
+          385664,
+          385685,
+          385697,
+          385698,
+          396479,
+          420096,
+          423699,
+          428221,
+          428222,
+          436462,
+          464209,
+          511311,
+          511319
+        ]
+      }
+    ],
+    "actorType": 4
+  }
+]

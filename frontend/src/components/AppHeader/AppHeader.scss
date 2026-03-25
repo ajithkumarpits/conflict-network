@@ -1,0 +1,59 @@
+@import  '../../styles/global';
+
+.app-header{
+    width: 100%;
+    padding-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    .header-wrapper{
+        padding: 0 $padding-big;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
+
+.toggle-nav-mob {
+    .MuiDrawer-paper {
+        background-color: $extra-dark-blue;
+    }
+    .toggle-nav-block {        
+        width: 100%;   
+        display: flex;
+        .toggle-nav-item {
+            .MuiTypography-root {
+                font-size: $font-extra-medium;
+                color: $white;
+            }
+        } 
+        .toggle-nav-items {
+            @media screen and (max-device-width: 899px) and (orientation: landscape) {
+               gap: 13pt
+            }
+        }    
+    }
+}
+
+.toggleButton{
+    position: absolute;
+    top: 0;
+    right: 0;     
+}
+.drawer-open {
+    .app-header {
+      z-index: 9999;
+      .header-logo {
+        display: none;
+      }
+    }
+  }
+  
+
+  

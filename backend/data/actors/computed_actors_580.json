@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1003,
+    "dataBasedName": "Supporters of Andry Rajoelina",
+    "eventReportIds": [
+      11891,
+      12699,
+      12891,
+      12920,
+      12930,
+      12940
+    ],
+    "eventTypeSummary": {
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Supporters of Marc Ravalomanana": 6
+    },
+    "links": [
+      {
+        "source": "Supporters of Andry Rajoelina",
+        "target": "Supporters of Marc Ravalomanana",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          11891,
+          12699,
+          12891,
+          12920,
+          12930,
+          12940
+        ]
+      }
+    ],
+    "actorType": 2
+  },
+  {
+    "id": 106,
+    "dataBasedName": "Government of Madagascar",
+    "eventReportIds": [
+      12929,
+      41190,
+      41191,
+      41192,
+      254853,
+      290406,
+      326277,
+      326296,
+      371793
+    ],
+    "eventTypeSummary": {
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Civilians": 9
+    },
+    "links": [
+      {
+        "source": "Government of Madagascar",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          12929,
+          41190,
+          41191,
+          41192,
+          254853,
+          290406,
+          326277,
+          326296,
+          371793
+        ]
+      }
+    ],
+    "actorType": 4
+  },
+  {
+    "id": 93099,
+    "dataBasedName": "Civilians",
+    "eventReportIds": [
+      12929,
+      41190,
+      41191,
+      41192,
+      254853,
+      290406,
+      326277,
+      326296,
+      371793
+    ],
+    "eventTypeSummary": {
+      "2": 0.0,
+      "3": 1.0
+    },
+    "eventTypes": [
+      3
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Government of Madagascar": 9
+    },
+    "links": [
+      {
+        "source": "Government of Madagascar",
+        "target": "Civilians",
+        "linkType": 1,
+        "count": 9,
+        "reports": [
+          12929,
+          41190,
+          41191,
+          41192,
+          254853,
+          290406,
+          326277,
+          326296,
+          371793
+        ]
+      }
+    ],
+    "actorType": 5
+  },
+  {
+    "id": 1041,
+    "dataBasedName": "Supporters of Marc Ravalomanana",
+    "eventReportIds": [
+      11862,
+      11863,
+      11864,
+      11883,
+      11889,
+      11890,
+      11892,
+      11930,
+      11931,
+      11932,
+      11933,
+      11954,
+      11955,
+      11959,
+      11960,
+      11963,
+      11964,
+      11969,
+      11970,
+      12007,
+      12008,
+      12009,
+      12010,
+      12909,
+      12914,
+      12921,
+      12923,
+      12932,
+      12937,
+      12938,
+      12941,
+      12942,
+      11891,
+      12699,
+      12891,
+      12920,
+      12930,
+      12940
+    ],
+    "eventTypeSummary": {
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Supporters of Andry Rajoelina": 6,
+      "Supporters of Didier Ratsiraka": 32
+    },
+    "links": [
+      {
+        "source": "Supporters of Andry Rajoelina",
+        "target": "Supporters of Marc Ravalomanana",
+        "linkType": 1,
+        "count": 6,
+        "reports": [
+          11891,
+          12699,
+          12891,
+          12920,
+          12930,
+          12940
+        ]
+      },
+      {
+        "source": "Supporters of Didier Ratsiraka",
+        "target": "Supporters of Marc Ravalomanana",
+        "linkType": 1,
+        "count": 32,
+        "reports": [
+          11862,
+          11863,
+          11864,
+          11883,
+          11889,
+          11890,
+          11892,
+          11930,
+          11931,
+          11932,
+          11933,
+          11954,
+          11955,
+          11959,
+          11960,
+          11963,
+          11964,
+          11969,
+          11970,
+          12007,
+          12008,
+          12009,
+          12010,
+          12909,
+          12914,
+          12921,
+          12923,
+          12932,
+          12937,
+          12938,
+          12941,
+          12942
+        ]
+      }
+    ],
+    "actorType": 2
+  },
+  {
+    "id": 1017,
+    "dataBasedName": "Supporters of Didier Ratsiraka",
+    "eventReportIds": [
+      11862,
+      11863,
+      11864,
+      11883,
+      11889,
+      11890,
+      11892,
+      11930,
+      11931,
+      11932,
+      11933,
+      11954,
+      11955,
+      11959,
+      11960,
+      11963,
+      11964,
+      11969,
+      11970,
+      12007,
+      12008,
+      12009,
+      12010,
+      12909,
+      12914,
+      12921,
+      12923,
+      12932,
+      12937,
+      12938,
+      12941,
+      12942
+    ],
+    "eventTypeSummary": {
+      "2": 1.0,
+      "3": 0.0
+    },
+    "eventTypes": [
+      2
+    ],
+    "collaborations": {},
+    "oppositions": {
+      "Supporters of Marc Ravalomanana": 32
+    },
+    "links": [
+      {
+        "source": "Supporters of Didier Ratsiraka",
+        "target": "Supporters of Marc Ravalomanana",
+        "linkType": 1,
+        "count": 32,
+        "reports": [
+          11862,
+          11863,
+          11864,
+          11883,
+          11889,
+          11890,
+          11892,
+          11930,
+          11931,
+          11932,
+          11933,
+          11954,
+          11955,
+          11959,
+          11960,
+          11963,
+          11964,
+          11969,
+          11970,
+          12007,
+          12008,
+          12009,
+          12010,
+          12909,
+          12914,
+          12921,
+          12923,
+          12932,
+          12937,
+          12938,
+          12941,
+          12942
+        ]
+      }
+    ],
+    "actorType": 2
+  }
+]
